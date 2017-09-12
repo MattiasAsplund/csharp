@@ -8,7 +8,7 @@ namespace MultiplierLib
 {
     public class PurchaseCalculation
     {
-        public object Execute(int qty, decimal amount, bool withVat)
+        public decimal Execute(int qty, decimal amount, bool withVat)
         {
             if (withVat)
                 return qty * amount * 1.25M;

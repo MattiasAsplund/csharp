@@ -20,14 +20,13 @@ namespace MultiplierLib
         }
         public void TransformFile(string inputName, string outputName)
         {
-            StreamWriter sw = new StreamWriter(File.Create(outputName), 
-                Encoding.GetEncoding("iso-8859-1"));
+            StringWriter sw = new StringWriter();
             string[] lines = File.ReadAllLines(inputName);
             foreach (var line in lines)
             {
-                sw.WriteLine(Transform(line));
+                string transformedLine = Transform(line);
+                sw.Write($"{transformedLine}\n");
             }
-            sw.Close();
             File.WriteAllText(outputName, sw.ToString());
         }
     }

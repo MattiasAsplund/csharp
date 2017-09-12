@@ -24,7 +24,9 @@ namespace MultiplierTestsLib
         }
         [TestMethod]
         public void TransformFile()
-        {
+        { 
+            File.WriteAllText("before.txt", "mattias;asplund;1971\namanda;asplund;2003\n");
+            File.WriteAllText("after.txt", "MATTIAS ASPLUND ÄR 46 ÅR GAMMAL.\nAMANDA ASPLUND ÄR 14 ÅR GAMMAL.\n");
             var sut = new FileConverter();
             sut.TransformFile("before.txt", "actual.txt");
             string expected = File.ReadAllText("after.txt");

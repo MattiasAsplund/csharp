@@ -1,0 +1,25 @@
+- Använd C# Interactive för att testa en lista av strängar:
+  var strings = new List<string>() { "Jag", "gillar", "att", "programmera" };
+  strings.RemoveAt(1);
+  strings
+  strings.Add("Mattias");
+  strings
+  string.Join("-", s.ToArray())
+
+- Kopiera ListHandlerTests.cs från MultiplierTestsLib till ditt eget testprojekt,
+  dessutom ListHandler.cs från MultiplierLib till ditt eget komponentprojekt. Ändra
+  ListHandler.cs så att testerna går igenom. Följ din intuition genom att försöka
+  förstå vad testerna begär av dig.
+
+- Använd C# Interactive för att testa datumhantering
+  var birthDate = new DateTime(1971, 4, 5);
+  var timeSpan = DateTime.Now - birthDate;
+  $"I am {timeSpan.Days} days old"
+  var timeSpanToNextBirthday = new DateTime(2018, 4, 5) - DateTime.Now;
+  $"My next birthday will arrive in {timeSpanToNextBirthday.Days} days"
+
+- Kopiera DateHandlerTests.cs från MultiplierTestsLib till ditt eget testprojekt,
+dessutom DateHandler.cs från MultiplierLib till ditt eget komponentprojekt. Ändra
+DateHandler.cs så att testerna går igenom. Följ din intuition genom att försöka
+förstå vad testerna begär av dig.
+
