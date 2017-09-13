@@ -52,3 +52,19 @@ dessutom DateHandler.cs från MultiplierLib till ditt eget komponentprojekt. Ändr
 DateHandler.cs så att testerna går igenom. Följ din intuition genom att försöka
 förstå vad testerna begär av dig.
 
+//////
+
+Skapa klassen Storyteller med metoden 
+string TellStory(string nameOfChild, int ageOfChild, bool willBeScary).
+
+Gör tester som kontrollerar att följande gäller för TellStory:
+
+- om ageOfChild är under 7 ska texten börja med $"Lyssna nu {nameOfChild}.
+  Det var en gång en prinsessa ", annars ska texten börja med "Hallå {nameOfChild}!
+  En gång fanns en kille ".
+
+- om willBeScary är true ska texten fortsätta med $"som egentligen var en varulv",
+  annars ska texten fortsätta med $"som tyckte om att dansa".
+
+- om ageOfChild är under 5 och willBeScary är true ska undantaget
+  InvalidOperationException("Unga barn ska inte bli skrämda.") slängas.
