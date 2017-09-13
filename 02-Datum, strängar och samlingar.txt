@@ -1,9 +1,13 @@
 Demonstration av arbetsgången i Visual Studio
 ---------------------------------------------
 
+- En problematisk Console-applikation
+- Vi objektifierar applikationen
+- Och gör den testbar
 - C# Interactive
-- Att lägga till ett test
-- Att lägga till en klass
+- Att lägga till ett komponenttest
+- Att lägga till en komponent
+
 - Output från ett enhetstest (istället för en Console-applikation)
 - Input från ett enhetstest (hårdkodat istället för Console-input)
 - Röd, Grön, Refaktorera

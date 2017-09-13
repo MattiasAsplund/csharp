@@ -34,7 +34,6 @@ namespace MultiplierTestsLib
             Console.WriteLine(sut.List[4]);
         }
         [TestMethod]
-        [ExpectedException(typeof(ArgumentOutOfRangeException))]
         public void Sort()
         {
             ListHandler sut = new ListHandler();
