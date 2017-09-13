@@ -7,6 +7,7 @@
         public override string ToString()
         {
             return $"{Name} costs {Price}, it's really true! ({PriceInSEK} kr)";
+            
         }
 
         public int PriceInSEK
