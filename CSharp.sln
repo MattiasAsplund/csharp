@@ -13,6 +13,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 	ProjectSection(SolutionItems) = preProject
 		01-Introduktion.txt = 01-Introduktion.txt
 		02-Datum, strängar och samlingar.txt = 02-Datum, strängar och samlingar.txt
+		03-Klasser och objekt.txt = 03-Klasser och objekt.txt
 	EndProjectSection
 EndProject
 Global

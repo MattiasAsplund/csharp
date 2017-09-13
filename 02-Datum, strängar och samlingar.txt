@@ -1,3 +1,25 @@
+Demonstration av arbetsgången i Visual Studio
+---------------------------------------------
+
+- C# Interactive
+- Att lägga till ett test
+- Att lägga till en klass
+- Output från ett enhetstest (istället för en Console-applikation)
+- Input från ett enhetstest (hårdkodat istället för Console-input)
+- Röd, Grön, Refaktorera
+- Hur man debuggar ett enhetstest
+
+Några visdomsord
+----------------
+
+- Röd, Grön och Refaktorera är mantrat för testdriven utveckling
+- Enhetstesta för att reducera behovet av manuell testning
+- Ge dina identifierare (klasser, metoder, variabler etc) beskrivnade namn
+- Varje metod bör ha en motsvarande testmetod
+
+Uppgifter
+---------
+
 - Använd C# Interactive för att testa en lista av strängar:
   var strings = new List<string>() { "Jag", "gillar", "att", "programmera" };
   strings.RemoveAt(1);
@@ -5,6 +27,9 @@
   strings.Add("Mattias");
   strings
   string.Join("-", s.ToArray())
+
+Kopiera kod från:
+https://github.com/mattiasasplund/CSharp
 
 - Kopiera ListHandlerTests.cs från MultiplierTestsLib till ditt eget testprojekt,
   dessutom ListHandler.cs från MultiplierLib till ditt eget komponentprojekt. Ändra
