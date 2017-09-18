@@ -2,6 +2,7 @@
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using MultiplierLib;
 using System.IO;
+using Microsoft.Extensions.FileProviders;
 
 namespace MultiplierTestsLib
 {
@@ -24,7 +25,8 @@ namespace MultiplierTestsLib
         }
         [TestMethod]
         public void TransformFile()
-        { 
+        {
+            NullFileProvider nullFile = new NullFileProvider();
             File.WriteAllText("before.txt", "mattias;asplund;1971\namanda;asplund;2003\n");
             File.WriteAllText("after.txt", "MATTIAS ASPLUND ÄR 46 ÅR GAMMAL.\nAMANDA ASPLUND ÄR 14 ÅR GAMMAL.\n");
             var sut = new FileConverter();
