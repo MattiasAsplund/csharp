@@ -11,17 +11,17 @@ namespace ExamTestsLib
         [TestMethod]
         public void Statistics()
         {
-            var anExam = new Exam("CSharp");
+            var sut = new Exam("CSharp");
             var alice = new Student("Alice");
             var bob = new Student("Bob");
             var caesar = new Student("Caesar");
-            anExam.Assign(alice);
-            anExam.Assign(bob);
-            anExam.Assign(caesar);
-            anExam.Grade(alice, "G");
-            anExam.Grade(bob, "VG");
-            anExam.Grade(caesar, "G");
-            Dictionary<string, int> statistics = anExam.GenerateStatistics();
+            sut.Assign(alice);
+            sut.Assign(bob);
+            sut.Assign(caesar);
+            sut.Grade(alice, "G");
+            sut.Grade(bob, "VG");
+            sut.Grade(caesar, "G");
+            Dictionary<string, int> statistics = sut.GenerateStatistics();
             Assert.AreEqual(statistics["IG"], 0);
             Assert.AreEqual(statistics["G"], 2);
             Assert.AreEqual(statistics["VG"], 1);
@@ -33,7 +33,7 @@ namespace ExamTestsLib
             var sut = new Exam("CSharp");
             Student alice = new Student("Alice");
             Student bob = new Student("Bob");
-            anExam.RegisterResult(alice, "G");
+            sut.Grade(alice, "G");
         }
 
     }
