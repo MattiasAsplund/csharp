@@ -1,0 +1,18 @@
+Refaktorering är ett fancy namn för att gå från en version av källkoden till en annan, utan att funktionen förändras, t ex:
+
+var i = 42;
+var x = DateTime.Now.AddDays(-i);
+Console.WriteLine(x.ToString());
+
+  till
+
+var daysToSubtract = 42;
+var earlierDate = DateTime.Now.AddDays(-daysToSubtract);
+Console.WriteLine(earlierDate.ToString());
+
+Även om kodmängden är lite större för det andra exemplet, så är koden lättare att läsa och göra underhåll på. Mängden text i källkoden påverkar inte hur stort programmet blir när det kompileras och sedan körs. Långa variabelnamn är inte bara tillåtet utan också rekommenderat om det leder till kod som är lättare att förstå sig på.
+
+/// ÖVNING
+
+Kopiera projekten ExamTestsLib och ExamLib. Få testerna att gå igenom och refaktorera sedan koden så att den blir mer läsbar.
+
