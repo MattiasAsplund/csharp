@@ -8,11 +8,15 @@ namespace ExamLib
 {
     public class Student
     {
-        private string v;
+        private string name;
 
-        public Student(string v)
+        public Student(string name)
         {
-            this.v = v;
+            this.name = name;
+        }
+        public override string ToString()
+        {
+            return this.name;
         }
     }
 }
