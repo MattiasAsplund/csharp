@@ -1,0 +1,13 @@
+﻿<Window x:Class="ThrowDices.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ThrowDices"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <StackPanel x:Name="panelGame" HorizontalAlignment="Left" Height="253" Margin="134,29,0,0" VerticalAlignment="Top" Width="250">
+        <Button Content="Throw Dices" Click="Button_Click"/>
+        <Label x:Name="lblFeedback" Content=""/>
+    </StackPanel>
+</Window>
