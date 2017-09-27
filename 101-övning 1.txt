@@ -1,0 +1,11 @@
+Skriv ett program som beräknar antalet studenter i en skola. Skolan består av klasser. Varje klass hårdkodas till att innehålla ett visst antal elever.
+
+Klasserna är:
+
+School
+Class
+
+Använd en konstruktor för att initiera skolan med ett ett valfritt namn.
+
+Använd en konstruktor för att initiera varje klass med ett valfritt namn och antal elever. Lägg till respektive klass i en lista på skolobjektet. Lägg till en property NumberOfStudents på skolobjektet som summerar antalet elever i varje klass med hjälp av en LINQ-fråga.
+
