@@ -1,0 +1,5 @@
+Bygg ett hus med två rum och ett fönster i varje rum.
+
+Öppna ett fönster.
+
+Beräkna hur många fönster som är stängda.
