@@ -1,0 +1,6 @@
+Skapa projektet Parter
+
+Skapa klassen Part har ett Name (string) och ett JuridicalId (string)
+
+Skapa klassen Accountability med ett Name (string), en Responsible (Part) och en Commissioner (Part)
+
