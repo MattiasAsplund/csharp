@@ -4,3 +4,13 @@ redan befintliga filen.
 
 Commita till GitHub.
 
+Välj en katalog i filsystemet och populera en dropdownlista med
+alla filer som har filändelsen *.txt.
+
+Commita till GitHub
+
+Gör en slideshow. Man ska kunna välja ett antal bilder i filsystemet.
+Därefter ska varje bild visas under tre sekunder efter varandra i 
+en oändlig loop.
+
+Commita till GitHub
