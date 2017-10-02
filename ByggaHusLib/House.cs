@@ -11,8 +11,12 @@ namespace ByggahusApp
         {
             get
             {
-                return Rooms.Sum(room => 
-                room.NumberOfClosedWindows);
+                int numberOfClosedWindows = 0;
+                foreach (var room in Rooms)
+                {
+                    numberOfClosedWindows += room.NumberOfClosedWindows;
+                }
+                return numberOfClosedWindows;
             }
         }
 

@@ -18,6 +18,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		101-övning 1.txt = 101-övning 1.txt
 		102-Ansvar.txt = 102-Ansvar.txt
 		103-Bygga hus övning.txt = 103-Bygga hus övning.txt
+		104-Enklare problemlösning.txt = 104-Enklare problemlösning.txt
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoretellerTestsLib", "StoretellerTestsLib\StoretellerTestsLib.csproj", "{2D30CBFA-8045-4EA3-8151-2CF2AF669D0F}"
@@ -66,7 +67,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOPConsoleApp", "OOPConsole
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarBuilderApp", "CarBuilderApp\CarBuilderApp.csproj", "{5506F5C3-1DBA-4ABB-9005-8352C6236985}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartLib", "PartLib\PartLib.csproj", "{CC100496-D70E-473B-8DA3-F6569F55A313}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PartLib", "PartLib\PartLib.csproj", "{CC100496-D70E-473B-8DA3-F6569F55A313}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PartTestsLib", "PartTestsLib\PartTestsLib.csproj", "{CA87FA43-9374-4E65-A453-79931BB37479}"
 EndProject
@@ -76,7 +77,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByggahusApp", "ByggahusApp\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByggaHusTests", "ByggaHusTests\ByggaHusTests.csproj", "{007AE095-01C8-40E6-921B-1F63716E8182}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByggaHusLib", "ByggaHusLib\ByggaHusLib.csproj", "{DC527498-FA4C-4ED2-BF24-7B3BA27BBF7D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ByggaHusLib", "ByggaHusLib\ByggaHusLib.csproj", "{DC527498-FA4C-4ED2-BF24-7B3BA27BBF7D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ConvertToUpperCase", "ConvertToUpperCase", "{A4F53536-CD5E-4732-B02E-6A99E4E5CD0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertToUpperCaseApp", "ConvertToUpperCaseApp\ConvertToUpperCaseApp.csproj", "{4FB1DC71-42B2-45CC-B8D8-11F74E2FE469}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -192,6 +197,10 @@ Global
 		{DC527498-FA4C-4ED2-BF24-7B3BA27BBF7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DC527498-FA4C-4ED2-BF24-7B3BA27BBF7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DC527498-FA4C-4ED2-BF24-7B3BA27BBF7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FB1DC71-42B2-45CC-B8D8-11F74E2FE469}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FB1DC71-42B2-45CC-B8D8-11F74E2FE469}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FB1DC71-42B2-45CC-B8D8-11F74E2FE469}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FB1DC71-42B2-45CC-B8D8-11F74E2FE469}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -219,6 +228,7 @@ Global
 		{2FF5BE21-3841-4E3E-8F05-89F23D444E0B} = {75909AAF-D2FA-44BB-80EB-BFCE7F72083D}
 		{007AE095-01C8-40E6-921B-1F63716E8182} = {75909AAF-D2FA-44BB-80EB-BFCE7F72083D}
 		{DC527498-FA4C-4ED2-BF24-7B3BA27BBF7D} = {75909AAF-D2FA-44BB-80EB-BFCE7F72083D}
+		{4FB1DC71-42B2-45CC-B8D8-11F74E2FE469} = {A4F53536-CD5E-4732-B02E-6A99E4E5CD0E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2F24F730-EE1B-4D8E-86DA-E1EC27CB103B}

@@ -1,0 +1,5 @@
+Skriv en Windows Forms Application där du kan välja tre filer.
+De första två filerna ska läggas till den tredje, eventuellt
+redan befintliga filen.
+
+Commita till GitHub.
