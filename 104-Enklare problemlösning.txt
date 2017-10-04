@@ -14,3 +14,13 @@ Därefter ska varje bild visas under tre sekunder efter varandra i
 en oändlig loop.
 
 Commita till GitHub
+
+Bygg en klientapplikation i där man kan ange förnamn,
+efternamn och personnummer. Applikationen ska då svara
+med:
+
+"God morgon herr {Efternamn}"
+
+  eller
+
+"God morgon fröken {Efternamn}"
