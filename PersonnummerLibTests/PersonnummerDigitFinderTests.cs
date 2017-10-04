@@ -23,5 +23,13 @@ namespace PersonnummerLibTests
             var expected = "8";
             Assert.AreEqual(expected, sut.LastDigit);
         }
+        [TestMethod]
+        public void Gentrit()
+        {
+            var sut = new PersonnummerDigitFinder();
+            sut.Process("810927889");
+            var expected = "8";
+            Assert.AreEqual(expected, sut.LastDigit);
+        }
     }
 }
