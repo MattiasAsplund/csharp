@@ -24,3 +24,5 @@ med:
   eller
 
 "God morgon fröken {Efternamn}"
+
+  beroende på om personnumret angett en man eller kvinna
