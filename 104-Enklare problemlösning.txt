@@ -26,3 +26,18 @@ med:
 "God morgon fröken {Efternamn}"
 
   beroende på om personnumret angett en man eller kvinna
+
+///
+
+Gör en klass/metod som beräknar sista siffran av 
+ett personnummer uitfrån de första 9 siffrorna:
+
+7  1  0  4  0  5  -  7  8  5   
+
+2  1  2  1  2  1     2  1  2
+
+14 1  0  4  0  5    14  8 10
+ 
+5  1  0  4  0  5     5  8  1
+
+                          29 -> 30 = 1
