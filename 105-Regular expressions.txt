@@ -2,3 +2,9 @@ Bygg ett unit test (med hjälp av regex101.com om du vill) som verifierar att rus
 
 "Mattias Asplund" 46 35000.00 070-6186120
 
+Bygg ett separat unit test som tar ovanstående sträng och skapar en ny sträng:
+
+Asplund, Mattias (Lön: 35000,00 SEK) Telefon:070-6186120 Födelseår:1971
+
+EmployeeLib
+string EmployeeConverter.Convert(string value)
