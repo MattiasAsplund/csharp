@@ -1,0 +1,4 @@
+Bygg ett unit test (med hjälp av regex101.com om du vill) som verifierar att russinen i följande strängkaka kan plockas ut:
+
+"Mattias Asplund" 46 35000.00 070-6186120
+

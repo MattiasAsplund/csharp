@@ -19,6 +19,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		102-Ansvar.txt = 102-Ansvar.txt
 		103-Bygga hus övning.txt = 103-Bygga hus övning.txt
 		104-Enklare problemlösning.txt = 104-Enklare problemlösning.txt
+		105-Regular expressions.txt = 105-Regular expressions.txt
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoretellerTestsLib", "StoretellerTestsLib\StoretellerTestsLib.csproj", "{2D30CBFA-8045-4EA3-8151-2CF2AF669D0F}"
@@ -98,6 +99,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonnummerLib", "PersonnummerLib\PersonnummerLib.csproj", "{F0D60091-6D28-4125-B459-AD161B4F59EC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonnummerApp", "PersonnummerApp\PersonnummerApp.csproj", "{112714FA-015B-4B52-9FC4-EF55EC26F3DF}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RegexProjects", "RegexProjects", "{89275E90-3C1A-4DE7-8BF9-7FA1D5A6556F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegexTests", "RegexTests\RegexTests.csproj", "{9B7F11E3-0D86-4573-9AD2-1DCEAA25DB9A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -237,6 +242,10 @@ Global
 		{112714FA-015B-4B52-9FC4-EF55EC26F3DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{112714FA-015B-4B52-9FC4-EF55EC26F3DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{112714FA-015B-4B52-9FC4-EF55EC26F3DF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B7F11E3-0D86-4573-9AD2-1DCEAA25DB9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B7F11E3-0D86-4573-9AD2-1DCEAA25DB9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B7F11E3-0D86-4573-9AD2-1DCEAA25DB9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B7F11E3-0D86-4573-9AD2-1DCEAA25DB9A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -270,6 +279,7 @@ Global
 		{8DB9342E-40A2-4553-A328-9A155FE2A4F2} = {780709D2-AE57-4FF7-978A-87C470FFBBDA}
 		{F0D60091-6D28-4125-B459-AD161B4F59EC} = {780709D2-AE57-4FF7-978A-87C470FFBBDA}
 		{112714FA-015B-4B52-9FC4-EF55EC26F3DF} = {780709D2-AE57-4FF7-978A-87C470FFBBDA}
+		{9B7F11E3-0D86-4573-9AD2-1DCEAA25DB9A} = {89275E90-3C1A-4DE7-8BF9-7FA1D5A6556F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2F24F730-EE1B-4D8E-86DA-E1EC27CB103B}
