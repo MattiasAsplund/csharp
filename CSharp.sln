@@ -20,6 +20,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		103-Bygga hus övning.txt = 103-Bygga hus övning.txt
 		104-Enklare problemlösning.txt = 104-Enklare problemlösning.txt
 		105-Regular expressions.txt = 105-Regular expressions.txt
+		106-Rekursiv övning.txt = 106-Rekursiv övning.txt
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoretellerTestsLib", "StoretellerTestsLib\StoretellerTestsLib.csproj", "{2D30CBFA-8045-4EA3-8151-2CF2AF669D0F}"
