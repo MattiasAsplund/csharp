@@ -123,8 +123,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtbildningTestsLib", "Utbil
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SIEImport", "SIEImport", "{39DCA00D-A6FC-4388-9D82-FAA42E36C748}"
 	ProjectSection(SolutionItems) = preProject
-		..\..\..\Mattias Asplund AB\MATTIAS0_SIE4 2015-09-01 - 2016-08-31.SE = ..\..\..\Mattias Asplund AB\MATTIAS0_SIE4 2015-09-01 - 2016-08-31.SE
+		..\..\..\Mattias Asplund AB\MATTIAS0_SIE4 2015-09-01 - 2016-08-31.SE.txt = ..\..\..\Mattias Asplund AB\MATTIAS0_SIE4 2015-09-01 - 2016-08-31.SE.txt
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIEImportTests", "SIEImportTests\SIEImportTests.csproj", "{47092D98-85B9-476F-AEA4-D240F66E9E74}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -292,6 +294,10 @@ Global
 		{5EC1434E-44A6-4565-A7D7-9F2EBCE7671A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5EC1434E-44A6-4565-A7D7-9F2EBCE7671A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5EC1434E-44A6-4565-A7D7-9F2EBCE7671A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47092D98-85B9-476F-AEA4-D240F66E9E74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47092D98-85B9-476F-AEA4-D240F66E9E74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47092D98-85B9-476F-AEA4-D240F66E9E74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47092D98-85B9-476F-AEA4-D240F66E9E74}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -332,6 +338,7 @@ Global
 		{B0EA8B8D-FF17-41EB-A97F-4FE42FB219E5} = {0C967E15-28D8-4C62-AE1C-B40B114695EA}
 		{097F45AD-29B8-40EE-884D-D53FC97C06A7} = {9A33C66B-B8FD-4DA0-B736-A8833C31CF0C}
 		{5EC1434E-44A6-4565-A7D7-9F2EBCE7671A} = {9A33C66B-B8FD-4DA0-B736-A8833C31CF0C}
+		{47092D98-85B9-476F-AEA4-D240F66E9E74} = {39DCA00D-A6FC-4388-9D82-FAA42E36C748}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2F24F730-EE1B-4D8E-86DA-E1EC27CB103B}

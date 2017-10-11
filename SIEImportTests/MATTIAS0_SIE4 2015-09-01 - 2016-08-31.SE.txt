@@ -1,0 +1,3276 @@
+#FLAGGA 0
+#FORMAT PC8
+#SIETYP 4
+#PROGRAM "Visma Administration 500" 2016.23
+#GEN 20161205 
+#FNAMN "Mattias Asplund Aktiebolag"
+#FNR "C:\PROGRAMDATA\SPCS\VISMA KLIENT\BUREAU_COMPANY1\556599-5239\BOKF\ADMIN"
+#ORGNR 556599-5239
+#ADRESS "" "FÜgelvÑgen 32" "135 53 Tyresî" "+46 (0)70 6186120"
+#RAR 0 20150901 20160831
+#RAR -1 20140901 20150831
+#TAXAR 2017 
+#VALUTA SEK
+#KPTYP EUBAS97
+#KONTO 1010 "Balanserade utgifter"
+#KTYP 1010 T
+#SRU 1010 7201
+#KONTO 1018 "Ack nedskrivningar balanserade utg"
+#KTYP 1018 T
+#SRU 1018 7201
+#KONTO 1019 "Ack avskrivningar balanserade utg"
+#KTYP 1019 T
+#SRU 1019 7201
+#KONTO 1028 "Ack nedskrivningar koncessioner m.m."
+#KTYP 1028 T
+#SRU 1028 7201
+#KONTO 1030 Patent
+#KTYP 1030 T
+#SRU 1030 7201
+#KONTO 1038 "Ack nedskrivn patent"
+#KTYP 1038 T
+#SRU 1038 7201
+#KONTO 1039 "Ack avskrivn patent"
+#KTYP 1039 T
+#SRU 1039 7201
+#KONTO 1040 Licenser
+#KTYP 1040 T
+#SRU 1040 7201
+#KONTO 1048 "Ack nedskrivn licenser"
+#KTYP 1048 T
+#SRU 1048 7201
+#KONTO 1049 "Ack avskrivn licenser"
+#KTYP 1049 T
+#SRU 1049 7201
+#KONTO 1050 VarumÑrken
+#KTYP 1050 T
+#SRU 1050 7201
+#KONTO 1058 "Ack nedskrivn varumÑrken"
+#KTYP 1058 T
+#SRU 1058 7201
+#KONTO 1059 "Ack avskrivn varumÑrken"
+#KTYP 1059 T
+#SRU 1059 7201
+#KONTO 1060 HyresrÑtt
+#KTYP 1060 T
+#SRU 1060 7201
+#KONTO 1068 "Ack nedskrivn hyresrÑtt"
+#KTYP 1068 T
+#SRU 1068 7201
+#KONTO 1069 "Ack avskrivn hyresrÑtt"
+#KTYP 1069 T
+#SRU 1069 7201
+#KONTO 1070 Goodwill
+#KTYP 1070 T
+#SRU 1070 7201
+#KONTO 1078 "Ack nedskrivn goodwill"
+#KTYP 1078 T
+#SRU 1078 7201
+#KONTO 1079 "Ack avskrivn goodwill"
+#KTYP 1079 T
+#SRU 1079 7201
+#KONTO 1090 "ôvriga imm anl tillg"
+#KTYP 1090 T
+#SRU 1090 7201
+#KONTO 1098 "Ack nedskrivn îvriga imm anl tillg"
+#KTYP 1098 T
+#SRU 1098 7201
+#KONTO 1099 "Ack avskrivn îvriga imm anl tillg"
+#KTYP 1099 T
+#SRU 1099 7201
+#KONTO 1110 Byggnader
+#KTYP 1110 T
+#SRU 1110 7214
+#KONTO 1118 "Ack nedskrivn byggnader"
+#KTYP 1118 T
+#SRU 1118 7214
+#KONTO 1119 "Ack avskrivn byggnader"
+#KTYP 1119 T
+#SRU 1119 7214
+#KONTO 1130 Mark
+#KTYP 1130 T
+#SRU 1130 7214
+#KONTO 1140 "Tomter, markomr obebyggda"
+#KTYP 1140 T
+#SRU 1140 7214
+#KONTO 1150 MarkanlÑggningar
+#KTYP 1150 T
+#SRU 1150 7214
+#KONTO 1158 "Ack nedskrivn markanlÑggn"
+#KTYP 1158 T
+#SRU 1158 7214
+#KONTO 1159 "Ack avskrivn markanlÑggn"
+#KTYP 1159 T
+#SRU 1159 7214
+#KONTO 1190 "ôvriga byggnader och mark"
+#KTYP 1190 T
+#SRU 1190 7214
+#KONTO 1200 "Maskiner och inventarier"
+#KTYP 1200 T
+#SRU 1200 7215
+#KONTO 1208 "Ack nedskrivn maskiner och inv"
+#KTYP 1208 T
+#SRU 1208 7215
+#KONTO 1209 "Ack avskrivn maskiner och inv"
+#KTYP 1209 T
+#SRU 1209 7215
+#KONTO 1210 "Maskiner och andra tekniska anlÑggningar"
+#KTYP 1210 T
+#SRU 1210 7215
+#KONTO 1211 Arbetsmaskiner
+#KTYP 1211 T
+#SRU 1211 7215
+#KONTO 1218 "Ack nedskrivn maskiner/tekn anl"
+#KTYP 1218 T
+#SRU 1218 7215
+#KONTO 1219 "Ack avskrivn arb.maskiner"
+#KTYP 1219 T
+#SRU 1219 7215
+#KONTO 1220 "Inventarier och verktyg"
+#KTYP 1220 T
+#SRU 1220 7215
+#KONTO 1221 Inventarier
+#KTYP 1221 T
+#SRU 1221 7215
+#KONTO 1222 Byggnadsinventarier
+#KTYP 1222 T
+#SRU 1222 7215
+#KONTO 1223 Markinventarier
+#KTYP 1223 T
+#SRU 1223 7215
+#KONTO 1225 Verktyg
+#KTYP 1225 T
+#SRU 1225 7215
+#KONTO 1228 "Ack nedskrivn inv/verktyg"
+#KTYP 1228 T
+#SRU 1228 7215
+#KONTO 1229 "Ackumulerade avskrivningar pÜ"
+#KTYP 1229 T
+#SRU 1229 7215
+#KONTO 1230 Installationer
+#KTYP 1230 T
+#SRU 1230 7215
+#KONTO 1238 "Ack nedskrivn installationer"
+#KTYP 1238 T
+#SRU 1238 7215
+#KONTO 1239 "Ack avskrivn maskiner och inv"
+#KTYP 1239 T
+#SRU 1239 7215
+#KONTO 1240 "Bilar och andra transportmedel"
+#KTYP 1240 T
+#SRU 1240 7215
+#KONTO 1241 Personbilar
+#KTYP 1241 T
+#SRU 1241 7215
+#KONTO 1242 Lastbilar
+#KTYP 1242 T
+#SRU 1242 7215
+#KONTO 1243 Truckar
+#KTYP 1243 T
+#SRU 1243 7215
+#KONTO 1244 Arbetsmaskiner
+#KTYP 1244 T
+#SRU 1244 7215
+#KONTO 1245 Traktorer
+#KTYP 1245 T
+#SRU 1245 7215
+#KONTO 1246 "Motorcyklar, mopeder och skotrar"
+#KTYP 1246 T
+#SRU 1246 7215
+#KONTO 1247 "BÜtar, flygplan och helikoptrar"
+#KTYP 1247 T
+#SRU 1247 7215
+#KONTO 1248 "Ack nedskr bilar/transportmedel"
+#KTYP 1248 T
+#SRU 1248 7215
+#KONTO 1249 "Ackumulerade avskrivningar pÜ"
+#KTYP 1249 T
+#SRU 1249 7215
+#KONTO 1250 Datorer
+#KTYP 1250 T
+#SRU 1250 7215
+#KONTO 1251 "Datorer, fîretaget"
+#KTYP 1251 T
+#SRU 1251 7215
+#KONTO 1257 "Datorer, personal"
+#KTYP 1257 T
+#SRU 1257 7215
+#KONTO 1258 "Ack nedskrivn datorer"
+#KTYP 1258 T
+#SRU 1258 7215
+#KONTO 1259 "Ack avskrivn datorer"
+#KTYP 1259 T
+#SRU 1259 7215
+#KONTO 1260 "Leasade tillgÜngar"
+#KTYP 1260 T
+#SRU 1260 7215
+#KONTO 1270 AnlÑggningsdjur
+#KTYP 1270 T
+#SRU 1270 7215
+#KONTO 1279 "Ack avskrivn anlÑggningsdjur"
+#KTYP 1279 T
+#SRU 1279 7215
+#KONTO 1290 "ôvriga maskiner och inventarier"
+#KTYP 1290 T
+#SRU 1290 7215
+#KONTO 1291 "Konst o ej avskrivn invent"
+#KTYP 1291 T
+#SRU 1291 7215
+#KONTO 1292 "Djur som klassificeras som anlÑggningstillgÜng"
+#KTYP 1292 T
+#SRU 1292 7215
+#KONTO 1298 "Ack nedskrivn îvr maskiner/inv"
+#KTYP 1298 T
+#SRU 1298 7215
+#KONTO 1299 "Ack avskrivn îvr maskiner/inv"
+#KTYP 1299 T
+#SRU 1299 7215
+#KONTO 1311 "Aktier sv dotterfîretag"
+#KTYP 1311 T
+#SRU 1311 7230
+#KONTO 1312 "Aktier utl dotterfîretag"
+#KTYP 1312 T
+#SRU 1312 7230
+#KONTO 1313 "Aktier i noterade utl koncernfîretag"
+#KTYP 1313 T
+#SRU 1313 7230
+#KONTO 1314 "Aktier/and îvr utl konc.ftg"
+#KTYP 1314 T
+#SRU 1314 7230
+#KONTO 1316 "ôvriga andelar i koncernfîretag"
+#KTYP 1316 T
+#SRU 1316 7230
+#KONTO 1318 "Ack nedskrivn andelar koncern"
+#KTYP 1318 T
+#SRU 1318 7230
+#KONTO 1330 "Aktier, andra sv fîretag"
+#KTYP 1330 T
+#SRU 1330 7231
+#KONTO 1338 "Ack nedskrivn andelar int.ftg"
+#KTYP 1338 T
+#SRU 1338 7231
+#KONTO 1350 "Andelar/vÑrdepapper andra ftg"
+#KTYP 1350 T
+#SRU 1350 7233
+#KONTO 1354 "Obligationer, vÑrdepapper"
+#KTYP 1354 T
+#SRU 1354 7233
+#KONTO 1358 "Ack nedskrivn andel/vÑrdepapper"
+#KTYP 1358 T
+#SRU 1358 7233
+#KONTO 1360 "LÜn till delÑgare eller nÑrstÜende, lÜngfristig del"
+#KTYP 1360 T
+#SRU 1360 7234
+#KONTO 1368 "Ack nedskrivn derivat"
+#KTYP 1368 T
+#SRU 1368 7234
+#KONTO 1369 "Ack nedskrivn lÜn till delÑgare eller nÑrstÜende, lÜngfrist"
+#KTYP 1369 T
+#SRU 1369 7234
+#KONTO 1370 "Uppskjuten skattefordran"
+#KTYP 1370 T
+#SRU 1370 7235
+#KONTO 1380 "LÜngfristiga fordringar"
+#KTYP 1380 T
+#SRU 1380 7235
+#KONTO 1382 "Fordringar hos anstÑllda"
+#KTYP 1382 T
+#SRU 1382 7235
+#KONTO 1383 Depositioner
+#KTYP 1383 T
+#SRU 1383 7235
+#KONTO 1384 "Derivat,lÜngfristiga vÑrdepappersinnehav"
+#KTYP 1384 T
+#SRU 1384 7235
+#KONTO 1386 "Fîrsta fîrhîjd leasingavg."
+#KTYP 1386 T
+#SRU 1386 7235
+#KONTO 1390 "Ack nedskr lÜngfr fordr"
+#KTYP 1390 T
+#SRU 1390 7235
+#KONTO 1410 "Lager av rÜvaror"
+#KTYP 1410 T
+#SRU 1410 7241
+#KONTO 1419 "FîrÑndring av lager av rÜvaror"
+#KTYP 1419 T
+#SRU 1419 7241
+#KONTO 1420 "Lager av tillsatsmaterial och fîrnîdenheter"
+#KTYP 1420 T
+#SRU 1420 7241
+#KONTO 1429 "FîrÑndring av lager av tillsatsmaterial och fîrnîdenheter"
+#KTYP 1429 T
+#SRU 1429 7241
+#KONTO 1430 "Lager av halvfabrikat"
+#KTYP 1430 T
+#SRU 1430 7242
+#KONTO 1431 "Lager av kîpta halvfabrikat"
+#KTYP 1431 T
+#SRU 1431 7241
+#KONTO 1432 "Lager av egentillverkade halvfabrikat"
+#KTYP 1432 T
+#SRU 1432 7242
+#KONTO 1438 "FîrÑndring av lager av kîpta halvfabrikat"
+#KTYP 1438 T
+#SRU 1438 7241
+#KONTO 1439 "FîrÑndring av lager av egentillverkade halvfabrikat"
+#KTYP 1439 T
+#SRU 1439 7242
+#KONTO 1440 "Produkter i arbete"
+#KTYP 1440 T
+#SRU 1440 7242
+#KONTO 1449 "FîrÑndring av produkter i arbete"
+#KTYP 1449 T
+#SRU 1449 7242
+#KONTO 1450 "Lager av fÑrdiga varor"
+#KTYP 1450 T
+#SRU 1450 7243
+#KONTO 1459 "FîrÑndring av lager av fÑrdiga varor"
+#KTYP 1459 T
+#SRU 1459 7243
+#KONTO 1460 "Lager av handelsvaror"
+#KTYP 1460 T
+#SRU 1460 7243
+#KONTO 1465 "Lager varor VMB"
+#KTYP 1465 T
+#SRU 1465 7243
+#KONTO 1466 "Nedskrivn lager varor VMB"
+#KTYP 1466 T
+#SRU 1466 7243
+#KONTO 1467 "Lager varor VMB fîrenklad"
+#KTYP 1467 T
+#SRU 1467 7243
+#KONTO 1469 "FîrÑndring av lager av handelsvaror"
+#KTYP 1469 T
+#SRU 1469 7243
+#KONTO 1470 "PÜgÜende arbete"
+#KTYP 1470 T
+#SRU 1470 7245
+#KONTO 1471 "PÜgÜende arbeten, nedlagda kostnader"
+#KTYP 1471 T
+#SRU 1471 7245
+#KONTO 1479 "FîrÑndring av pÜgÜende arbeten"
+#KTYP 1479 T
+#SRU 1479 7245
+#KONTO 1480 "Fîrskott fîr varor och tjÑnst"
+#KTYP 1480 T
+#SRU 1480 7246
+#KONTO 1481 Remburser
+#KTYP 1481 T
+#SRU 1481 7246
+#KONTO 1490 "ôvriga lagertillgÜngar"
+#KTYP 1490 T
+#SRU 1490 7244
+#KONTO 1491 "lager av vÑrdepapper"
+#KTYP 1491 T
+#SRU 1491 7244
+#KONTO 1492 "Lager av fastigheter"
+#KTYP 1492 T
+#SRU 1492 7244
+#KONTO 1493 "Djur som klassificeras som omsÑttningstillgÜng"
+#KTYP 1493 T
+#SRU 1493 7244
+#KONTO 1510 Kundfordringar
+#KTYP 1510 T
+#SRU 1510 7251
+#KONTO 1512 "BelÜnade fordringar"
+#KTYP 1512 T
+#SRU 1512 7251
+#KONTO 1515 "OsÑkra kundfordringar"
+#KTYP 1515 T
+#SRU 1515 7251
+#KONTO 1517 "Kvittning kundfaktura"
+#KTYP 1517 T
+#SRU 1517 7251
+#KONTO 1519 "Nedskrivning av kundfordringar"
+#KTYP 1519 T
+#SRU 1519 7251
+#KONTO 1580 "Kontokort och kuponger"
+#KTYP 1580 T
+#SRU 1580 7251
+#KONTO 1610 Fîrskott
+#KTYP 1610 T
+#SRU 1610 7261
+#KONTO 1611 Resefîrskott
+#KTYP 1611 T
+#SRU 1611 7261
+#KONTO 1613 "ôvriga fîrskott"
+#KTYP 1613 T
+#SRU 1613 7261
+#KONTO 1619 "ôvr fordringar hos anstÑllda"
+#KTYP 1619 T
+#SRU 1619 7261
+#KONTO 1620 "Fodran pÜ bestÑllare"
+#KTYP 1620 T
+#SRU 1620 7262
+#KONTO 1630 Skattekonto
+#KTYP 1630 T
+#SRU 1630 7261
+#KONTO 1640 Skattefordringar
+#KTYP 1640 T
+#SRU 1640 7261
+#KONTO 1650 Momsfordran
+#KTYP 1650 T
+#SRU 1650 7261
+#KONTO 1680 "Andra kortfristiga fordringar"
+#KTYP 1680 T
+#SRU 1680 7261
+#KONTO 1683 "Derivat kortfristiga fodringar"
+#KTYP 1683 T
+#SRU 1683 7261
+#KONTO 1684 "Fordring hos leverantîr"
+#KTYP 1684 T
+#SRU 1684 7261
+#KONTO 1685 "Fordring hos nÑrstÜende"
+#KTYP 1685 T
+#SRU 1685 7261
+#KONTO 1688 "Fordran pensionsfîrsÑkringar, deklarationspost"
+#KTYP 1688 T
+#SRU 1688 7261
+#KONTO 1690 Mastercard
+#KTYP 1690 T
+#SRU 1690 7261
+#KONTO 1700 "Fîrutbetalda kostnader och up"
+#KTYP 1700 T
+#SRU 1700 7263
+#KONTO 1710 "Fîrutbetalda hyresutgifter"
+#KTYP 1710 T
+#SRU 1710 7263
+#KONTO 1720 "Fîrutbetalda leasingavgifter"
+#KTYP 1720 T
+#SRU 1720 7263
+#KONTO 1730 "Fîrutbetalda fîrsÑkringspremi"
+#KTYP 1730 T
+#SRU 1730 7263
+#KONTO 1740 "Fîrutbet rÑnteutgifter"
+#KTYP 1740 T
+#SRU 1740 7263
+#KONTO 1750 "Upplupna hyresinkomster"
+#KTYP 1750 T
+#SRU 1750 7263
+#KONTO 1760 "Upplupna inkomstrÑntor"
+#KTYP 1760 T
+#SRU 1760 7263
+#KONTO 1790 "ôvriga fîrutbetalda kostnader"
+#KTYP 1790 T
+#SRU 1790 7263
+#KONTO 1810 "Andelar i bîrsnoterade fîretag"
+#KTYP 1810 T
+#SRU 1810 7271
+#KONTO 1820 "Obligationer, vÑrdepapper"
+#KTYP 1820 T
+#SRU 1820 7271
+#KONTO 1860 "Andelar i koncernfîretag"
+#KTYP 1860 T
+#SRU 1860 7270
+#KONTO 1869 "Nedskrivn finansiella instr"
+#KTYP 1869 T
+#SRU 1869 7270
+#KONTO 1886 "Derivat kortfristiga placeringar"
+#KTYP 1886 T
+#SRU 1886 7271
+#KONTO 1910 Kassa
+#KTYP 1910 T
+#SRU 1910 7281
+#KONTO 1920 Postgiro
+#KTYP 1920 T
+#SRU 1920 7281
+#KONTO 1930 "Handelsbanken 369 286 278"
+#KTYP 1930 T
+#SRU 1930 7281
+#KONTO 1940 Fîreningssparbanken
+#KTYP 1940 T
+#SRU 1940 7281
+#KONTO 1980 Valutakonton
+#KTYP 1980 T
+#SRU 1980 7281
+#KONTO 1990 Redovisningsmedel
+#KTYP 1990 T
+#SRU 1990 7281
+#KONTO 2016 "FîrÑndring fond verkligt vÑrde"
+#KTYP 2016 S
+#KONTO 2065 "FîrÑndring fond verkligt vÑrde"
+#KTYP 2065 S
+#KONTO 2070 "éndamÜlsbestÑmda medel"
+#KTYP 2070 S
+#KONTO 2081 Aktiekapital
+#KTYP 2081 S
+#SRU 2081 7301
+#KONTO 2083 Medlemsinsatser
+#KTYP 2083 S
+#SRU 2083 7301
+#KONTO 2084 "ôverkursfond/utgÜr 20060101"
+#KTYP 2084 T
+#SRU 2084 7301
+#KONTO 2085 Uppskrivningsfond
+#KTYP 2085 T
+#SRU 2085 7301
+#KONTO 2086 Reservfond
+#KTYP 2086 S
+#SRU 2086 7301
+#KONTO 2090 "Fritt eget kapital"
+#KTYP 2090 S
+#SRU 2090 7302
+#KONTO 2091 "Balanserad vinst eller fîrlust"
+#KTYP 2091 S
+#SRU 2091 7302
+#KONTO 2094 "Egna aktier"
+#KTYP 2094 S
+#SRU 2094 7302
+#KONTO 2097 ôverkursfond
+#KTYP 2097 S
+#SRU 2097 7302
+#KONTO 2098 "Vinst eller fîrlust frÜn fîre"
+#KTYP 2098 S
+#SRU 2098 7302
+#KONTO 2099 "èrets resultat"
+#KTYP 2099 S
+#SRU 2099 7302
+#KONTO 2110 "Periodiseringsfond TAX 2010"
+#KTYP 2110 S
+#SRU 2110 7321
+#KONTO 2111 "Periodiseringsfond TAX 2011"
+#KTYP 2111 S
+#SRU 2111 7321
+#KONTO 2112 "Periodiseringsfond TAX 2012"
+#KTYP 2112 S
+#SRU 2112 7321
+#KONTO 2113 "Periodiseringsfond TAX 2013"
+#KTYP 2113 S
+#SRU 2113 7321
+#KONTO 2114 "Periodiseringsfond TAX 2014"
+#KTYP 2114 S
+#SRU 2114 7321
+#KONTO 2115 "Periodiseringsfond TAX 2015"
+#KTYP 2115 S
+#SRU 2115 7321
+#KONTO 2120 Periodiseringsfonder
+#KTYP 2120 S
+#SRU 2120 7321
+#KONTO 2121 "Periodiseringsfond TAX 2001"
+#KTYP 2121 S
+#SRU 2121 7321
+#KONTO 2122 "Periodiseringsfond TAX 2002"
+#KTYP 2122 S
+#SRU 2122 7321
+#KONTO 2123 "Periodiseringsfond TAX 2003"
+#KTYP 2123 S
+#SRU 2123 7321
+#KONTO 2124 "Periodiseringsfond TAX 2004"
+#KTYP 2124 S
+#SRU 2124 7321
+#KONTO 2125 "Periodiseringsfond TAX 2005"
+#KTYP 2125 S
+#SRU 2125 7321
+#KONTO 2126 "Periodiseringsfond TAX 2006"
+#KTYP 2126 S
+#SRU 2126 7321
+#KONTO 2127 "Periodiseringsfond TAX 2007"
+#KTYP 2127 S
+#SRU 2127 7321
+#KONTO 2128 "Periodiseringsfond TAX 2008"
+#KTYP 2128 S
+#SRU 2128 7321
+#KONTO 2129 "Periodiseringsfond TAX 2009"
+#KTYP 2129 S
+#SRU 2129 7321
+#KONTO 2150 "Ack îveravskrivningar"
+#KTYP 2150 S
+#SRU 2150 7322
+#KONTO 2151 "Ack îveravskr imm anl.tillg"
+#KTYP 2151 S
+#SRU 2151 7322
+#KONTO 2152 "Ack îveravskr pÜ byggn/markanl"
+#KTYP 2152 S
+#SRU 2152 7322
+#KONTO 2153 "Ack îveravskr maskiner/inv"
+#KTYP 2153 S
+#SRU 2153 7322
+#KONTO 2157 "Ack îveravskr anlÑggningsdjur"
+#KTYP 2157 T
+#SRU 2157 7322
+#KONTO 2190 "ôvr obeskattade reserver"
+#KTYP 2190 S
+#SRU 2190 7323
+#KONTO 2196 Lagerreserv
+#KTYP 2196 S
+#SRU 2196 7323
+#KONTO 2210 "Avsatt till pensioner"
+#KTYP 2210 S
+#SRU 2210 7331
+#KONTO 2211 "AvsÑttningar fîr PRI-pensioner"
+#KTYP 2211 S
+#SRU 2211 7331
+#KONTO 2219 "AvsÑttningar fîr îvr pensioner"
+#KTYP 2219 S
+#SRU 2219 7331
+#KONTO 2220 Garantiskulder
+#KTYP 2220 S
+#SRU 2220 7333
+#KONTO 2230 "îvr avsÑttn pensioner och liknande fîrpliktelser"
+#KTYP 2230 S
+#SRU 2230 7332
+#KONTO 2240 "AvsÑttningar fîr îvriga pensioner"
+#KTYP 2240 S
+#SRU 2240 7333
+#KONTO 2250 "îvr avsÑttningar fîr skatter"
+#KTYP 2250 S
+#SRU 2250 7333
+#KONTO 2252 "AvsÑttningar fîr tvistiga skatter"
+#KTYP 2252 S
+#SRU 2252 7333
+#KONTO 2253 "AvsÑttning sÑrskild lîneskatt, deklarationspost"
+#KTYP 2253 S
+#SRU 2253 7333
+#KONTO 2290 "ôvriga avsÑttningar"
+#KTYP 2290 S
+#SRU 2290 7333
+#KONTO 2315 "FSB 8327-9 725.144.949-7"
+#KTYP 2315 S
+#SRU 2315 7350
+#KONTO 2321 "Konvertibla lÜn"
+#KTYP 2321 S
+#SRU 2321 7350
+#KONTO 2322 "LÜn fîrenade med optionsrÑtt"
+#KTYP 2322 S
+#SRU 2322 7350
+#KONTO 2323 VinstandelslÜn
+#KTYP 2323 S
+#SRU 2323 7350
+#KONTO 2324 KapitalandelslÜn
+#KTYP 2324 S
+#SRU 2324 7350
+#KONTO 2330 CheckrÑkningskredit
+#KTYP 2330 S
+#SRU 2330 7351
+#KONTO 2350 ReverslÜn
+#KTYP 2350 S
+#SRU 2350 7352
+#KONTO 2355 "LÜn i utlÑndsk valuta"
+#KTYP 2355 S
+#SRU 2355 7352
+#KONTO 2390 "ôvriga lÜngfristiga skulder"
+#KTYP 2390 S
+#SRU 2390 7354
+#KONTO 2393 "LÜn frÜn aktieÑgare"
+#KTYP 2393 S
+#SRU 2393 7354
+#KONTO 2395 "Andra lÜn i utl valuta"
+#KTYP 2395 S
+#SRU 2395 7354
+#KONTO 2396 "Derivat lÜngfristiga skulder"
+#KTYP 2396 S
+#SRU 2396 7354
+#KONTO 2399 "ôvr lÜngfristiga skulder"
+#KTYP 2399 S
+#SRU 2399 7354
+#KONTO 2410 "Andra kortfristiga lÜneskulder till kreditinstitut"
+#KTYP 2410 S
+#SRU 2410 7361
+#KONTO 2420 "Fîrskott frÜn kunder"
+#KTYP 2420 S
+#SRU 2420 7362
+#KONTO 2429 "ôvriga fîrskott frÜn kund, kundfîrlust"
+#KTYP 2429 S
+#SRU 2429 7362
+#KONTO 2440 Leverantîrsskulder
+#KTYP 2440 S
+#SRU 2440 7365
+#KONTO 2449 "Kvittning av leverantîrsfakturor"
+#KTYP 2449 S
+#SRU 2449 7365
+#KONTO 2450 "fakturerad men ej upparbetad intÑkt"
+#KTYP 2450 S
+#SRU 2450 7364
+#KONTO 2480 "CheckrÑkningskredit, kortfristig"
+#KTYP 2480 S
+#SRU 2480 7360
+#KONTO 2492 VÑxelskulder
+#KTYP 2492 S
+#SRU 2492 7366
+#KONTO 2499 "Andra îvr kortfrist skulder"
+#KTYP 2499 S
+#SRU 2499 7369
+#KONTO 2510 Skatteskulder
+#KTYP 2510 S
+#SRU 2510 7368
+#KONTO 2513 "BerÑknad fastighetsskatt/fastighetsavgift"
+#KTYP 2513 S
+#SRU 2513 7368
+#KONTO 2517 "BerÑknad utlÑndsk skatt"
+#KTYP 2517 S
+#SRU 2517 7368
+#KONTO 2610 "UtgÜende moms, oreducerad"
+#KTYP 2610 S
+#SRU 2610 7369
+#KONTO 2611 "UtgÜende moms pÜ fîrsÑljning"
+#KTYP 2611 S
+#SRU 2611 7369
+#KONTO 2612 "Utg moms egna uttag 25%"
+#KTYP 2612 S
+#SRU 2612 7369
+#KONTO 2613 "Utg moms uthyrning ored"
+#KTYP 2613 S
+#SRU 2613 7369
+#KONTO 2614 "Ber moms tjfîrv 25% utl"
+#KTYP 2614 S
+#SRU 2614 7369
+#KONTO 2615 "Ber moms varufîrv 25% EU"
+#KTYP 2615 S
+#SRU 2615 7369
+#KONTO 2616 "Utg moms VMB 25%"
+#KTYP 2616 S
+#SRU 2616 7369
+#KONTO 2617 "Utg moms omv skattskyld, Sv"
+#KTYP 2617 S
+#SRU 2617 7369
+#KONTO 2621 "Utg moms fîrsÑljning 12% Sv"
+#KTYP 2621 S
+#SRU 2621 7369
+#KONTO 2622 "Utg moms egna uttag 12%"
+#KTYP 2622 S
+#SRU 2622 7369
+#KONTO 2623 "UtgÜende moms fîr uthyrning, 12%"
+#KTYP 2623 S
+#SRU 2623 7369
+#KONTO 2624 "Ber moms tjfîrv 12% utl"
+#KTYP 2624 S
+#SRU 2624 7369
+#KONTO 2625 "Ber utg moms pÜ varufîrvÑrv frÜn annat EU-land, 12%"
+#KTYP 2625 S
+#SRU 2625 7369
+#KONTO 2626 "Utg moms VMB 12%"
+#KTYP 2626 S
+#SRU 2626 7369
+#KONTO 2627 "UtgÜende moms omvÑnd skattskyld varor o tjÑnst, 12%"
+#KTYP 2627 S
+#SRU 2627 7369
+#KONTO 2631 "Utg moms fîrsÑljning 6% Sv"
+#KTYP 2631 S
+#SRU 2631 7369
+#KONTO 2632 "Utg moms egna uttag 6%"
+#KTYP 2632 S
+#SRU 2632 7369
+#KONTO 2633 "UtgÜende moms fîr uthyrning, 6%"
+#KTYP 2633 S
+#SRU 2633 7369
+#KONTO 2634 "Ber moms tjfîrv 6% utl"
+#KTYP 2634 S
+#SRU 2634 7369
+#KONTO 2635 "Ber utg moms pÜ varufîrvÑrv frÜn annat EU-land, 6%"
+#KTYP 2635 S
+#SRU 2635 7369
+#KONTO 2636 "Utg moms VMB 6%"
+#KTYP 2636 S
+#SRU 2636 7369
+#KONTO 2637 "UtgÜende moms omvÑnd skattskyld varor o tjÑnst, 6%"
+#KTYP 2637 S
+#SRU 2637 7369
+#KONTO 2640 "IngÜende moms"
+#KTYP 2640 S
+#SRU 2640 7369
+#KONTO 2641 "Debiterad ingÜende moms"
+#KTYP 2641 S
+#SRU 2641 7369
+#KONTO 2642 "Debiterad ingÜende moms, frivillig skattskyldighet"
+#KTYP 2642 S
+#SRU 2642 7369
+#KONTO 2645 "BerÑknad ingÜende moms pÜ fîr"
+#KTYP 2645 S
+#SRU 2645 7369
+#KONTO 2646 "Ing moms uthyrning"
+#KTYP 2646 S
+#SRU 2646 7369
+#KONTO 2647 "Ing moms omv skattskyld, Sv"
+#KTYP 2647 S
+#SRU 2647 7369
+#KONTO 2648 "Vilande ingÜende moms"
+#KTYP 2648 S
+#SRU 2648 7369
+#KONTO 2650 "Redovisningskonto fîr moms"
+#KTYP 2650 S
+#SRU 2650 7369
+#KONTO 2660 "SÑrskilda punktskatter"
+#KTYP 2660 S
+#SRU 2660 7369
+#KONTO 2661 Reklamskatt
+#KTYP 2661 S
+#SRU 2661 7369
+#KONTO 2710 "Personalens kÑllskatt"
+#KTYP 2710 S
+#SRU 2710 7369
+#KONTO 2730 "Lagstadgade sociala avgifter"
+#KTYP 2730 S
+#SRU 2730 7369
+#KONTO 2731 "AvrÑkn sociala avgifter"
+#KTYP 2731 S
+#SRU 2731 7369
+#KONTO 2732 "AvrÑkning sÑrskild lîneskatt"
+#KTYP 2732 S
+#SRU 2732 7369
+#KONTO 2733 "AvrÑkn sÑrsk sjukfîrsÑkrings avg"
+#KTYP 2733 S
+#SRU 2733 7369
+#KONTO 2740 "Avtalade sociala avgifter"
+#KTYP 2740 S
+#SRU 2740 7369
+#KONTO 2750 "UtmÑtning i lîn mm"
+#KTYP 2750 S
+#SRU 2750 7369
+#KONTO 2790 "ôvriga lîneavdrag"
+#KTYP 2790 S
+#SRU 2790 7369
+#KONTO 2792 Lînsparande
+#KTYP 2792 S
+#SRU 2792 7369
+#KONTO 2793 "KollektivfîrsÑkring mm"
+#KTYP 2793 S
+#SRU 2793 7369
+#KONTO 2794 Fackfîreningsavgifter
+#KTYP 2794 S
+#SRU 2794 7369
+#KONTO 2795 Granskningsavgifter
+#KTYP 2795 S
+#SRU 2795 7369
+#KONTO 2811 "AvrÑkning factoring"
+#KTYP 2811 S
+#SRU 2811 7369
+#KONTO 2820 "Skulder till anstÑllda"
+#KTYP 2820 S
+#SRU 2820 7369
+#KONTO 2821 "Skuld Asplund Herkommer"
+#KTYP 2821 S
+#SRU 2821 7369
+#KONTO 2840 LÜneskulder
+#KTYP 2840 S
+#SRU 2840 7369
+#KONTO 2850 "AvrÑkn skatter/avgifter"
+#KTYP 2850 S
+#SRU 2850 7369
+#KONTO 2880 KRONOFOGDEN
+#KTYP 2880 S
+#SRU 2880 7369
+#KONTO 2890 "ôvriga kortfristiga skulder"
+#KTYP 2890 S
+#SRU 2890 7369
+#KONTO 2892 "Inre reparationsfond/underhÜllsfond"
+#KTYP 2892 S
+#SRU 2892 7369
+#KONTO 2893 "Skulder nÑrstÜende personer"
+#KTYP 2893 S
+#SRU 2893 7369
+#KONTO 2895 "Derivat kortfr skulder"
+#KTYP 2895 S
+#SRU 2895 7369
+#KONTO 2900 "Upplupna kostnader och fîrutb"
+#KTYP 2900 S
+#SRU 2900 7370
+#KONTO 2910 "Upplupna lîner"
+#KTYP 2910 S
+#SRU 2910 7370
+#KONTO 2920 "Upplupna semlîner"
+#KTYP 2920 S
+#SRU 2920 7370
+#KONTO 2940 "Upplupna lagstadgade sociala"
+#KTYP 2940 S
+#SRU 2940 7370
+#KONTO 2941 "BerÑkn upplupna sociala avgifter"
+#KTYP 2941 S
+#SRU 2941 7370
+#KONTO 2943 "BerÑkn upplupen sÑrsk lîneskatt pensionskostn, deklpost"
+#KTYP 2943 S
+#SRU 2943 7370
+#KONTO 2945 "BerÑkn upplupna sÑrskild sjuk fîrsÑk. avg"
+#KTYP 2945 S
+#SRU 2945 7370
+#KONTO 2950 "Upplupna avtalade soc avg"
+#KTYP 2950 S
+#SRU 2950 7370
+#KONTO 2951 "Upplupna avtalade fîrsÑkringsavgifter"
+#KTYP 2951 S
+#SRU 2951 7370
+#KONTO 2959 "Upplupna avt. pensionsfîrsÑkringspremier, deklarationspost"
+#KTYP 2959 S
+#SRU 2959 7370
+#KONTO 2960 "Upplupna utgiftsrÑntor"
+#KTYP 2960 S
+#SRU 2960 7370
+#KONTO 2970 "Fîrutbetalda hyresinkomster"
+#KTYP 2970 S
+#SRU 2970 7370
+#KONTO 2971 "Fîrutbetalda hyresintÑkter"
+#KTYP 2971 S
+#SRU 2971 7370
+#KONTO 2972 "Fîrutbetalda medlemsavgifter"
+#KTYP 2972 S
+#SRU 2972 7370
+#KONTO 2979 "ôvriga fîrutbetalda intÑkter"
+#KTYP 2979 S
+#SRU 2979 7370
+#KONTO 2990 "ôvriga upplupna kostnader och"
+#KTYP 2990 S
+#SRU 2990 7370
+#KONTO 2993 "Ospecificerad skuld till leverantîrer"
+#KTYP 2993 S
+#SRU 2993 7370
+#KONTO 2995 "Skuld inkomna fîljesedlar"
+#KTYP 2995 S
+#SRU 2995 7370
+#KONTO 2998 "ôvr uppl kostn/fîrutbet intÑkter"
+#KTYP 2998 S
+#SRU 2998 7370
+#KONTO 2999 "ôvr uppl kostn/fîrutbet intÑkter"
+#KTYP 2999 S
+#SRU 2999 7370
+#KONTO 3011 "FîrsÑljning av varor och tjÑn"
+#KTYP 3011 I
+#SRU 3011 7410
+#KONTO 3020 "FîrsÑljning VMB varor"
+#KTYP 3020 I
+#SRU 3020 7410
+#KONTO 3028 "Positiv VM omfîringskonto"
+#KTYP 3028 I
+#SRU 3028 7410
+#KONTO 3030 "Positiv VM"
+#KTYP 3030 I
+#SRU 3030 7410
+#KONTO 3040 "FîrsÑljning av tjÑnster"
+#KTYP 3040 I
+#SRU 3040 7410
+#KONTO 3041 "FîrsÑljning av tjÑnster inom"
+#KTYP 3041 I
+#SRU 3041 7410
+#KONTO 3042 "FîrsÑljn tjÑnst 12% sv"
+#KTYP 3042 I
+#SRU 3042 7410
+#KONTO 3043 "FîrsÑljn tjÑnst 6% sv"
+#KTYP 3043 I
+#SRU 3043 7410
+#KONTO 3044 "FîrsÑljn tjÑnst sv momsfri"
+#KTYP 3044 I
+#SRU 3044 7410
+#KONTO 3045 "FîrsÑlj tjÑnst utanfîr EU"
+#KTYP 3045 I
+#SRU 3045 7410
+#KONTO 3046 "FîrsÑljn tjÑnst till EU"
+#KTYP 3046 I
+#SRU 3046 7410
+#KONTO 3048 "FîrsÑljn tjÑnst EU momsfri"
+#KTYP 3048 I
+#SRU 3048 7410
+#KONTO 3051 "FîrsÑljn varor 25% sv"
+#KTYP 3051 I
+#SRU 3051 7410
+#KONTO 3052 "FîrsÑljn varor 12% sv"
+#KTYP 3052 I
+#SRU 3052 7410
+#KONTO 3053 "FîrsÑljn varor 6% sv"
+#KTYP 3053 I
+#SRU 3053 7410
+#KONTO 3054 "FîrsÑljn varor sv momsfri"
+#KTYP 3054 I
+#SRU 3054 7410
+#KONTO 3055 "FîrsÑljn varor utanfîr EU"
+#KTYP 3055 I
+#SRU 3055 7410
+#KONTO 3056 "FîrsÑljn varor till EU"
+#KTYP 3056 I
+#SRU 3056 7410
+#KONTO 3057 "Treparts fîrsÑljn varor till EU 25%"
+#KTYP 3057 I
+#SRU 3057 7410
+#KONTO 3058 "FîrsÑljn varor EU momsfri"
+#KTYP 3058 I
+#SRU 3058 7410
+#KONTO 3059 "Momspl uttag av fast.tj"
+#KTYP 3059 I
+#SRU 3059 7410
+#KONTO 3062 "Fîrs varor nÑrst fîretag"
+#KTYP 3062 I
+#SRU 3062 7410
+#KONTO 3099 "IntÑktskonto periodisering"
+#KTYP 3099 I
+#SRU 3099 7410
+#KONTO 3100 "FîrsÑljning kîpta produkter"
+#KTYP 3100 I
+#SRU 3100 7410
+#KONTO 3231 "FîrsÑljn bygg, omv skattskyld"
+#KTYP 3231 I
+#SRU 3231 7410
+#KONTO 3510 Emballage
+#KTYP 3510 I
+#SRU 3510 7410
+#KONTO 3520 Frakter
+#KTYP 3520 I
+#SRU 3520 7410
+#KONTO 3521 "Frakter export"
+#KTYP 3521 I
+#SRU 3521 7410
+#KONTO 3522 "Frakter EU"
+#KTYP 3522 I
+#SRU 3522 7410
+#KONTO 3530 "Fakt tull och spedition"
+#KTYP 3530 I
+#SRU 3530 7410
+#KONTO 3540 Faktureringsavgifter
+#KTYP 3540 I
+#SRU 3540 7410
+#KONTO 3541 "Faktureringsavgifter export"
+#KTYP 3541 I
+#SRU 3541 7410
+#KONTO 3542 "Faktureringsavgifter EU"
+#KTYP 3542 I
+#SRU 3542 7410
+#KONTO 3550 "Fakt resekostnader"
+#KTYP 3550 I
+#SRU 3550 7410
+#KONTO 3561 "Fakt kostn moderftg"
+#KTYP 3561 I
+#SRU 3561 7410
+#KONTO 3562 "Fakt kostn dotterftg"
+#KTYP 3562 I
+#SRU 3562 7410
+#KONTO 3563 "Fakt kostn andra koncernftg"
+#KTYP 3563 I
+#SRU 3563 7410
+#KONTO 3590 "ôvr fakt kostnader"
+#KTYP 3590 I
+#SRU 3590 7410
+#KONTO 3610 "FîrsÑljning material"
+#KTYP 3610 I
+#SRU 3610 7410
+#KONTO 3612 "FîrsÑljning av skrot"
+#KTYP 3612 I
+#SRU 3612 7410
+#KONTO 3670 "IntÑkt vÑrdepapper"
+#KTYP 3670 I
+#SRU 3670 7410
+#KONTO 3671 "FîrsÑljning vÑrdepapper"
+#KTYP 3671 I
+#SRU 3671 7410
+#KONTO 3672 "Utdeln vÑrdepapper"
+#KTYP 3672 I
+#SRU 3672 7410
+#KONTO 3679 "ôvr intÑkter vÑrdepapper"
+#KTYP 3679 I
+#SRU 3679 7410
+#KONTO 3690 "ôvriga sidointÑkter"
+#KTYP 3690 I
+#SRU 3690 7410
+#KONTO 3730 "LÑmnade rabatter"
+#KTYP 3730 I
+#SRU 3730 7410
+#KONTO 3731 Kassarabatter
+#KTYP 3731 I
+#SRU 3731 7410
+#KONTO 3732 "LÑmnade rabatter"
+#KTYP 3732 I
+#SRU 3732 7410
+#KONTO 3736 "Kassarabatter export"
+#KTYP 3736 I
+#SRU 3736 7410
+#KONTO 3737 "Kassarabatter EU"
+#KTYP 3737 I
+#SRU 3737 7410
+#KONTO 3740 ôresutjÑmning
+#KTYP 3740 I
+#SRU 3740 7410
+#KONTO 3800 "Aktiverat arbete fîr egen rÑkning"
+#KTYP 3800 I
+#SRU 3800 7412
+#KONTO 3840 "Aktiverat arbete (material)"
+#KTYP 3840 I
+#SRU 3840 7412
+#KONTO 3850 "Aktiverat arbete (omkostnader)"
+#KTYP 3850 I
+#SRU 3850 7412
+#KONTO 3870 "Aktiverat arbete (personal)"
+#KTYP 3870 I
+#SRU 3870 7412
+#KONTO 3900 "ôvriga rîrelseintÑkter"
+#KTYP 3900 I
+#SRU 3900 7413
+#KONTO 3911 HyresintÑkter
+#KTYP 3911 I
+#SRU 3911 7413
+#KONTO 3912 "HyresintÑkter frivilligskattskyldighet"
+#KTYP 3912 I
+#SRU 3912 7413
+#KONTO 3913 "Frivilligt momspliktiga hyresintÑkter"
+#KTYP 3913 I
+#SRU 3913 7413
+#KONTO 3921 ProvisionsintÑkter
+#KTYP 3921 I
+#SRU 3921 7413
+#KONTO 3940 "Orealiserad negativ fîrÑndr sÑk. instrum"
+#KTYP 3940 I
+#SRU 3940 7413
+#KONTO 3950 "ètervunna kundfîrluster"
+#KTYP 3950 I
+#SRU 3950 7413
+#KONTO 3960 "Kursvinst rîrelsen"
+#KTYP 3960 I
+#SRU 3960 7413
+#KONTO 3970 "Vinst avyttr imm/mat anl.tillg"
+#KTYP 3970 I
+#SRU 3970 7413
+#KONTO 3971 "Vinst avyttr imm anl tillg"
+#KTYP 3971 T
+#SRU 3971 7413
+#KONTO 3972 "Vinst avyttr fastigheter"
+#KTYP 3972 I
+#SRU 3972 7413
+#KONTO 3973 "Vinst avyttr maskiner/inv"
+#KTYP 3973 I
+#SRU 3973 7413
+#KONTO 3974 "Vinst vid avyttring av bilar"
+#KTYP 3974 T
+#SRU 3974 7413
+#KONTO 3977 "Vinst avyttr anlÑggningsdjur"
+#KTYP 3977 T
+#SRU 3977 7413
+#KONTO 3985 "ErhÜllna statliga bidrag"
+#KTYP 3985 I
+#SRU 3985 7413
+#KONTO 3987 "ErhÜllna kommunala bidrag"
+#KTYP 3987 I
+#SRU 3987 7413
+#KONTO 3988 "ErhÜllna bidrag personal"
+#KTYP 3988 I
+#SRU 3988 7413
+#KONTO 3989 "ôvriga erhÜllna bidrag"
+#KTYP 3989 I
+#SRU 3989 7413
+#KONTO 3990 "ôvr ersÑttn och intÑker"
+#KTYP 3990 I
+#SRU 3990 7413
+#KONTO 3994 FîrsÑkringsersÑttningar
+#KTYP 3994 I
+#SRU 3994 7413
+#KONTO 3996 "ErhÜllna reklambidrag"
+#KTYP 3996 I
+#SRU 3996 7413
+#KONTO 3997 SjuklîneersÑttning
+#KTYP 3997 I
+#SRU 3997 7413
+#KONTO 3999 PÜminnelseavgift
+#KTYP 3999 I
+#SRU 3999 7413
+#KONTO 4000 Vidarefakturering
+#KTYP 4000 K
+#SRU 4000 7512
+#KONTO 4010 "Inkîp av varor och mtrl i verksamheten"
+#KTYP 4010 K
+#SRU 4010 7512
+#KONTO 4020 "Utbildning/Konferens kostnad"
+#KTYP 4020 K
+#SRU 4020 7512
+#KONTO 4028 "Negativ VM omfîringskonto"
+#KTYP 4028 K
+#SRU 4028 7512
+#KONTO 4030 "Negativ VM"
+#KTYP 4030 K
+#SRU 4030 7512
+#KONTO 4055 "Trepartsfîrv varor fr EU"
+#KTYP 4055 K
+#SRU 4055 7512
+#KONTO 4056 "Inkîp varor 25% EU"
+#KTYP 4056 K
+#SRU 4056 7512
+#KONTO 4057 "Inkîp varor 12% EU"
+#KTYP 4057 K
+#SRU 4057 7512
+#KONTO 4058 "Inkîp varor EU momsfri"
+#KTYP 4058 K
+#SRU 4058 7512
+#KONTO 4100 "Kostn uthyrn lokal sk.pl"
+#KTYP 4100 K
+#SRU 4100 7512
+#KONTO 4415 "Inkîpta varor Sv, omv skattskyld 25%"
+#KTYP 4415 K
+#SRU 4415 7512
+#KONTO 4425 "Inkîp tjÑnster Sv, omv skattskyld"
+#KTYP 4425 K
+#SRU 4425 7512
+#KONTO 4531 "Inkîp av tjÑnst frÜn land utanfîr EU, 25%"
+#KTYP 4531 K
+#SRU 4531 7512
+#KONTO 4545 "Import av varor, 25% moms"
+#KTYP 4545 K
+#SRU 4545 7512
+#KONTO 4546 "Import av varor, 12% moms"
+#KTYP 4546 K
+#SRU 4546 7512
+#KONTO 4547 "Import av varor, 6% moms"
+#KTYP 4547 K
+#SRU 4547 7512
+#KONTO 4549 "Motkonto beskattningsunderlag import"
+#KTYP 4549 K
+#SRU 4549 7512
+#KONTO 4600 "Legoarbeten, underentreprenad"
+#KTYP 4600 K
+#SRU 4600 7512
+#KONTO 4731 "ErhÜllna kassarabatter"
+#KTYP 4731 K
+#SRU 4731 7512
+#KONTO 4733 "ErhÜllet aktivitetsstîd"
+#KTYP 4733 K
+#SRU 4733 7512
+#KONTO 4810 "Tull- och speditionskostnader m.m vid import"
+#KTYP 4810 K
+#KONTO 4940 "FîrÑndr produkter i arbete"
+#KTYP 4940 K
+#SRU 4940 7411
+#KONTO 4950 "FîrÑndr lager fÑrdigvaror"
+#KTYP 4950 K
+#SRU 4950 7411
+#KONTO 4970 "FîrÑndr pÜg arbete"
+#KTYP 4970 K
+#SRU 4970 7411
+#KONTO 4980 "FîrÑndr VÑrdepapper"
+#KTYP 4980 K
+#SRU 4980 7512
+#KONTO 4981 "SÜlda VÑrdepappers ansk.kostn"
+#KTYP 4981 K
+#SRU 4981 7512
+#KONTO 4987 "Nedskrivn VÑrdepapper"
+#KTYP 4987 K
+#SRU 4987 7512
+#KONTO 4990 LagerfîrÑndring
+#KTYP 4990 K
+#SRU 4990 7411
+#KONTO 5010 Lokalhyra
+#KTYP 5010 K
+#SRU 5010 7513
+#KONTO 5020 "El hyrd lokal"
+#KTYP 5020 K
+#SRU 5020 7513
+#KONTO 5030 "VÑrme hyrd lokal"
+#KTYP 5030 K
+#SRU 5030 7513
+#KONTO 5040 "Vatten och avlopp"
+#KTYP 5040 K
+#SRU 5040 7513
+#KONTO 5050 "Lokaltillbehîr hyrd lokal"
+#KTYP 5050 K
+#SRU 5050 7513
+#KONTO 5060 "StÑdning, renhÜllning hyrd lokal"
+#KTYP 5060 K
+#SRU 5060 7513
+#KONTO 5070 "Reparationer hyrd lokal"
+#KTYP 5070 K
+#SRU 5070 7513
+#KONTO 5090 "ôvriga lokalkostnader"
+#KTYP 5090 K
+#SRU 5090 7513
+#KONTO 5120 Belysning
+#KTYP 5120 K
+#SRU 5120 7513
+#KONTO 5130 VÑrme
+#KTYP 5130 K
+#SRU 5130 7513
+#KONTO 5132 Sotning
+#KTYP 5132 K
+#SRU 5132 7513
+#KONTO 5140 "Vatten och avlopp"
+#KTYP 5140 K
+#SRU 5140 7513
+#KONTO 5160 "RenhÜlln och stÑdning"
+#KTYP 5160 K
+#SRU 5160 7513
+#KONTO 5170 "Rep och underhÜll fastighet"
+#KTYP 5170 K
+#SRU 5170 7513
+#KONTO 5191 Fastighetsskatt
+#KTYP 5191 K
+#SRU 5191 7513
+#KONTO 5192 "FîrsÑkringsprem fastighet"
+#KTYP 5192 K
+#SRU 5192 7513
+#KONTO 5193 "Fastighetsskîtsel och fîrvaltn"
+#KTYP 5193 K
+#SRU 5193 7513
+#KONTO 5198 "ôvr fastighetskostn avdragsgill"
+#KTYP 5198 K
+#SRU 5198 7513
+#KONTO 5199 "ôvr fastigheskostnr ej avdragsgill"
+#KTYP 5199 K
+#SRU 5199 7513
+#KONTO 5200 "Hyra av anlÑggningstillgÜngar"
+#KTYP 5200 K
+#SRU 5200 7513
+#KONTO 5210 "Hyra arbetsmaskiner"
+#KTYP 5210 K
+#SRU 5210 7513
+#KONTO 5220 "Hyra inventarier"
+#KTYP 5220 K
+#SRU 5220 7513
+#KONTO 5290 "ôvr hyreskostn anl tillg"
+#KTYP 5290 K
+#SRU 5290 7513
+#KONTO 5300 Energikostnader
+#KTYP 5300 K
+#SRU 5300 7513
+#KONTO 5310 "El fîr drift"
+#KTYP 5310 K
+#SRU 5310 7513
+#KONTO 5380 Vatten
+#KTYP 5380 K
+#SRU 5380 7513
+#KONTO 5390 "ôvriga brÑnslen"
+#KTYP 5390 K
+#SRU 5390 7513
+#KONTO 5410 Fîrbrukningsinventarier
+#KTYP 5410 K
+#SRU 5410 7513
+#KONTO 5411 "Fîrbrukningsinv med livslÑngd mer Ñn 1 Ür"
+#KTYP 5411 K
+#SRU 5411 7513
+#KONTO 5412 "Fîrbrukningsinv med livslÑngd 1 Ür eller mindre"
+#KTYP 5412 K
+#SRU 5412 7513
+#KONTO 5420 Dataprogram
+#KTYP 5420 K
+#SRU 5420 7513
+#KONTO 5460 Fîrbrukningsmaterial
+#KTYP 5460 K
+#SRU 5460 7513
+#KONTO 5480 "ArbetsklÑder o skyddsmtrl"
+#KTYP 5480 K
+#SRU 5480 7513
+#KONTO 5493 "ôvrigt fîrbrukningsmaterial"
+#KTYP 5493 K
+#SRU 5493 7513
+#KONTO 5500 "Reparation och underhÜll"
+#KTYP 5500 K
+#SRU 5500 7513
+#KONTO 5580 "UnderhÜll och tvÑtt av arbets"
+#KTYP 5580 K
+#SRU 5580 7513
+#KONTO 5600 "Kostnader fîr transportmedel"
+#KTYP 5600 K
+#SRU 5600 7513
+#KONTO 5610 Personbilskostnader
+#KTYP 5610 K
+#SRU 5610 7513
+#KONTO 5611 "Personbilar drivmedel"
+#KTYP 5611 K
+#SRU 5611 7513
+#KONTO 5612 "Personbilar fîrs/skatt"
+#KTYP 5612 K
+#SRU 5612 7513
+#KONTO 5613 "Personbilar reparationer"
+#KTYP 5613 K
+#SRU 5613 7513
+#KONTO 5615 "Personbilar leasing"
+#KTYP 5615 K
+#SRU 5615 7513
+#KONTO 5616 TrÑngselskatt
+#KTYP 5616 K
+#SRU 5616 7513
+#KONTO 5618 "TrÑngselskatter, EJ AVDRAGSGI"
+#KTYP 5618 K
+#SRU 5618 7513
+#KONTO 5619 "Personbilar îvrigt"
+#KTYP 5619 K
+#SRU 5619 7513
+#KONTO 5690 "ôvr transportmedel"
+#KTYP 5690 K
+#SRU 5690 7513
+#KONTO 5710 "Frakter, transporter och fîrs"
+#KTYP 5710 K
+#SRU 5710 7513
+#KONTO 5720 "Tull- och speditionskost"
+#KTYP 5720 K
+#SRU 5720 7513
+#KONTO 5800 "Resekostnader (gruppkonto)"
+#KTYP 5800 K
+#SRU 5800 7513
+#KONTO 5810 Biljetter
+#KTYP 5810 K
+#SRU 5810 7513
+#KONTO 5820 Hyrbilskostnader
+#KTYP 5820 K
+#SRU 5820 7513
+#KONTO 5830 "Kost och logi"
+#KTYP 5830 K
+#SRU 5830 7513
+#KONTO 5831 "Kost och logi i Sverige"
+#KTYP 5831 K
+#SRU 5831 7513
+#KONTO 5832 "Kost och logi i utlandet"
+#KTYP 5832 K
+#SRU 5832 7513
+#KONTO 5840 "Lokala resor med buss & taxi"
+#KTYP 5840 K
+#SRU 5840 7513
+#KONTO 5880 "Lokala resor buss & taxi"
+#KTYP 5880 K
+#SRU 5880 7513
+#KONTO 5890 "ôvriga resekostnader"
+#KTYP 5890 K
+#SRU 5890 7513
+#KONTO 5910 Annonsering
+#KTYP 5910 K
+#SRU 5910 7513
+#KONTO 5930 Reklamtrycksaker
+#KTYP 5930 K
+#SRU 5930 7513
+#KONTO 5940 "UtstÑllning och mÑssor"
+#KTYP 5940 K
+#SRU 5940 7513
+#KONTO 5990 "ôvrig reklam"
+#KTYP 5990 K
+#SRU 5990 7513
+#KONTO 6000 "ôvriga fîrsÑljningskostnader"
+#KTYP 6000 K
+#SRU 6000 7513
+#KONTO 6010 "Kataloger och prislistor"
+#KTYP 6010 K
+#SRU 6010 7513
+#KONTO 6040 Kontokortsavgifter
+#KTYP 6040 K
+#SRU 6040 7513
+#KONTO 6050 FîrsÑljningsprovision
+#KTYP 6050 K
+#SRU 6050 7513
+#KONTO 6060 KreditfîrsÑljningskostnad
+#KTYP 6060 K
+#SRU 6060 7513
+#KONTO 6062 "Inkasso och KFM-avgifter"
+#KTYP 6062 K
+#SRU 6062 7513
+#KONTO 6063 KreditfîrsÑkringspremier
+#KTYP 6063 K
+#SRU 6063 7513
+#KONTO 6064 Factoringavgifter
+#KTYP 6064 K
+#SRU 6064 7513
+#KONTO 6069 "ôvr kreditfîrsÑljnkostnader"
+#KTYP 6069 K
+#SRU 6069 7513
+#KONTO 6071 "Representation avdragsgill"
+#KTYP 6071 K
+#SRU 6071 7513
+#KONTO 6072 "Representation ej avdragsgill"
+#KTYP 6072 K
+#SRU 6072 7513
+#KONTO 6080 Bankgarantier
+#KTYP 6080 K
+#SRU 6080 7513
+#KONTO 6090 "ôvr fîrsÑljningskostnader"
+#KTYP 6090 K
+#SRU 6090 7513
+#KONTO 6110 Kontorsmaterial
+#KTYP 6110 K
+#SRU 6110 7513
+#KONTO 6150 Trycksaker
+#KTYP 6150 K
+#SRU 6150 7513
+#KONTO 6200 "Tele och porto"
+#KTYP 6200 K
+#SRU 6200 7513
+#KONTO 6210 Telekommunikation
+#KTYP 6210 K
+#SRU 6210 7513
+#KONTO 6211 "Fast telefoni"
+#KTYP 6211 K
+#SRU 6211 7513
+#KONTO 6212 Mobiltelefon
+#KTYP 6212 K
+#SRU 6212 7513
+#KONTO 6213 Mobilsîkning
+#KTYP 6213 K
+#SRU 6213 7513
+#KONTO 6214 Fax
+#KTYP 6214 K
+#SRU 6214 7513
+#KONTO 6230 Datakommunikation
+#KTYP 6230 K
+#SRU 6230 7513
+#KONTO 6250 Postbefordran
+#KTYP 6250 K
+#SRU 6250 7513
+#KONTO 6310 FîretagsfîrsÑkringar
+#KTYP 6310 K
+#SRU 6310 7513
+#KONTO 6320 SjÑlvrisker
+#KTYP 6320 K
+#SRU 6320 7513
+#KONTO 6340 "LÑmnade skadestÜnd"
+#KTYP 6340 K
+#SRU 6340 7513
+#KONTO 6350 Kundfîrluster
+#KTYP 6350 K
+#SRU 6350 7513
+#KONTO 6351 "Konstaterade fîrluster pÜ kundfordringar"
+#KTYP 6351 K
+#SRU 6351 7513
+#KONTO 6352 "Befarade fîrluster pÜ kundfordringar"
+#KTYP 6352 K
+#SRU 6352 7513
+#KONTO 6390 "ôvriga riskkostnader"
+#KTYP 6390 K
+#SRU 6390 7513
+#KONTO 6400 "Fîrvaltningskostnader (gruppk"
+#KTYP 6400 K
+#SRU 6400 7513
+#KONTO 6410 "Styrelsearvode som inte Ñr lîn"
+#KTYP 6410 K
+#SRU 6410 7513
+#KONTO 6420 Revisionsarvoden
+#KTYP 6420 K
+#SRU 6420 7513
+#KONTO 6430 "Management fees"
+#KTYP 6430 K
+#SRU 6430 7513
+#KONTO 6440 "èrsredovisn, delÜrsrapporter"
+#KTYP 6440 K
+#SRU 6440 7513
+#KONTO 6450 BolagsstÑmma
+#KTYP 6450 K
+#SRU 6450 7513
+#KONTO 6490 "ôvr fîrvaltningskostnader"
+#KTYP 6490 K
+#SRU 6490 7513
+#KONTO 6530 RedovisningstjÑnster
+#KTYP 6530 K
+#SRU 6530 7513
+#KONTO 6540 IT-tjÑnster
+#KTYP 6540 K
+#SRU 6540 7513
+#KONTO 6550 Konsultarvoden
+#KTYP 6550 K
+#SRU 6550 7513
+#KONTO 6560 "Serviceavgifter till branscho"
+#KTYP 6560 K
+#SRU 6560 7513
+#KONTO 6570 Bankkostnader
+#KTYP 6570 K
+#SRU 6570 7513
+#KONTO 6580 Advokatkostnader
+#KTYP 6580 K
+#SRU 6580 7513
+#KONTO 6590 "ôvriga externa tjÑnster"
+#KTYP 6590 K
+#SRU 6590 7513
+#KONTO 6800 "Inhyrd personal"
+#KTYP 6800 K
+#SRU 6800 7513
+#KONTO 6970 "Tidningar, tidskrifter och fa"
+#KTYP 6970 K
+#SRU 6970 7513
+#KONTO 6980 Fîreningsavgifter
+#KTYP 6980 K
+#SRU 6980 7513
+#KONTO 6981 "Fîreningsavg avdr gill"
+#KTYP 6981 K
+#SRU 6981 7513
+#KONTO 6982 "Fîreningsavg ej avdr gill"
+#KTYP 6982 K
+#SRU 6982 7513
+#KONTO 6990 "ôvriga kostnader"
+#KTYP 6990 K
+#SRU 6990 7513
+#KONTO 6991 "ôvriga externa kostnader, avdragsgilla"
+#KTYP 6991 K
+#SRU 6991 7513
+#KONTO 6992 "ôvriga externa kostnader, ej avdragsgilla"
+#KTYP 6992 K
+#SRU 6992 7513
+#KONTO 6993 "LÑmnade bidrag och gÜvor"
+#KTYP 6993 K
+#SRU 6993 7513
+#KONTO 6995 "Straffavg. ej avdragsgill"
+#KTYP 6995 K
+#SRU 6995 7513
+#KONTO 6996 "Betald utlÑndsk inkomstskatt"
+#KTYP 6996 K
+#SRU 6996 7513
+#KONTO 6997 "Obetald utlÑndsk inkomstskatt"
+#KTYP 6997 K
+#SRU 6997 7513
+#KONTO 7010 "Lîn kollektivanstÑllda"
+#KTYP 7010 K
+#SRU 7010 7514
+#KONTO 7011 "Lîn till kollektivanstÑllda"
+#KTYP 7011 K
+#SRU 7011 7514
+#KONTO 7013 "Lîn kollektivanst utland"
+#KTYP 7013 K
+#SRU 7013 7514
+#KONTO 7014 "Lîn kollektivanstÑllda nya pens"
+#KTYP 7014 K
+#SRU 7014 7514
+#KONTO 7015 "Lîner till kollektivanstÑllda (avgiftsbefriade)"
+#KTYP 7015 K
+#SRU 7015 7514
+#KONTO 7030 "Lîn kollektivanstÑllda, utland"
+#KTYP 7030 K
+#SRU 7030 7514
+#KONTO 7033 "Lîn kollektivanstÑllda under 26 Ür (utland)"
+#KTYP 7033 K
+#SRU 7033 7514
+#KONTO 7081 "Sjuklîn kollektivanstÑllda"
+#KTYP 7081 K
+#SRU 7081 7514
+#KONTO 7082 Semesterlîn
+#KTYP 7082 K
+#SRU 7082 7514
+#KONTO 7083 "FîrÑldraers kollektivanstÑllda"
+#KTYP 7083 K
+#SRU 7083 7514
+#KONTO 7089 "ôvr lîner kollektivanst ej arb tid"
+#KTYP 7089 K
+#SRU 7089 7514
+#KONTO 7090 "FîrÑndr sem lîneskuld"
+#KTYP 7090 K
+#SRU 7090 7514
+#KONTO 7210 "Lîner till tjÑnstemÑn"
+#KTYP 7210 K
+#SRU 7210 7514
+#KONTO 7211 "Lîn tjÑnstemÑn"
+#KTYP 7211 K
+#SRU 7211 7514
+#KONTO 7213 "Lîn tjÑnstemÑn, utland"
+#KTYP 7213 K
+#SRU 7213 7514
+#KONTO 7214 "Lîn tjÑnstemÑn nya pens"
+#KTYP 7214 K
+#SRU 7214 7514
+#KONTO 7215 "Lîner till tjÑnstemÑn (avgiftsbefriade)"
+#KTYP 7215 K
+#SRU 7215 7514
+#KONTO 7220 "Lîner till fîretagsledare"
+#KTYP 7220 K
+#SRU 7220 7514
+#KONTO 7223 "Lîn fîretagsledare, utland"
+#KTYP 7223 K
+#SRU 7223 7514
+#KONTO 7224 "Lîn fîretagsledare nya pens"
+#KTYP 7224 K
+#SRU 7224 7514
+#KONTO 7225 "Lîn fîretagsledare, lîneskatt"
+#KTYP 7225 K
+#SRU 7225 7514
+#KONTO 7230 "Lîn tjÑnstemÑn, fîretagsledare, utland"
+#KTYP 7230 K
+#SRU 7230 7514
+#KONTO 7233 "Lîn tjÑnstemÑn och fîretagsledare under 26 Ür, utland"
+#KTYP 7233 K
+#SRU 7233 7514
+#KONTO 7240 Styrelsearvoden
+#KTYP 7240 K
+#SRU 7240 7514
+#KONTO 7281 "Sjuklîn tjÑnstemÑn"
+#KTYP 7281 K
+#SRU 7281 7514
+#KONTO 7282 "Sjuklîner till ftgledare"
+#KTYP 7282 K
+#SRU 7282 7514
+#KONTO 7283 "FîrÑldraers tjÑnstemÑn"
+#KTYP 7283 K
+#SRU 7283 7514
+#KONTO 7284 "FîrÑldraers ftgledare"
+#KTYP 7284 K
+#SRU 7284 7514
+#KONTO 7285 "Semesterlîn tjÑnstemÑn"
+#KTYP 7285 K
+#SRU 7285 7514
+#KONTO 7286 "Semesterlîn ftgledare"
+#KTYP 7286 K
+#SRU 7286 7514
+#KONTO 7288 "ôvr lîner tjÑnstemÑn ej arb tid"
+#KTYP 7288 K
+#SRU 7288 7514
+#KONTO 7289 "ôvr lîner ftgledare ej arb tid"
+#KTYP 7289 K
+#SRU 7289 7514
+#KONTO 7290 "FîrÑndr sem lîneskuld"
+#KTYP 7290 K
+#SRU 7290 7514
+#KONTO 7300 "KostnadsersÑttningar och natu"
+#KTYP 7300 K
+#SRU 7300 7514
+#KONTO 7310 "Kontanta extra ersÑttn"
+#KTYP 7310 K
+#SRU 7310 7514
+#KONTO 7320 "Traktamenten vid tjÑnsteresa"
+#KTYP 7320 K
+#SRU 7320 7514
+#KONTO 7321 "Skattefria trakt Sverige"
+#KTYP 7321 K
+#SRU 7321 7514
+#KONTO 7322 "Skattepl trakt Sverige"
+#KTYP 7322 K
+#SRU 7322 7514
+#KONTO 7323 "Skattefria trakt utland"
+#KTYP 7323 K
+#SRU 7323 7514
+#KONTO 7324 "Skattepl trakt utland"
+#KTYP 7324 K
+#SRU 7324 7514
+#KONTO 7330 BilersÑttningar
+#KTYP 7330 K
+#SRU 7330 7514
+#KONTO 7331 "Skattefri bilersÑttning"
+#KTYP 7331 K
+#SRU 7331 7514
+#KONTO 7332 "Skattepl bilersÑttning"
+#KTYP 7332 K
+#SRU 7332 7514
+#KONTO 7333 "ErsÑttning fîr trÑngselskatt, skattefri"
+#KTYP 7333 K
+#SRU 7333 7514
+#KONTO 7338 "Skattepliktig ers trÑngselskatt"
+#KTYP 7338 K
+#SRU 7338 7514
+#KONTO 7340 "MilersÑttning skattefri"
+#KTYP 7340 K
+#SRU 7340 7514
+#KONTO 7380 "Kostnader fîr naturafîrmÜner"
+#KTYP 7380 K
+#SRU 7380 7514
+#KONTO 7381 "Kostn fîr fri bostad"
+#KTYP 7381 K
+#SRU 7381 7514
+#KONTO 7382 "Kostn fria/subv mÜltider"
+#KTYP 7382 K
+#SRU 7382 7514
+#KONTO 7385 "Motkonto bilfîrmÜn"
+#KTYP 7385 K
+#SRU 7385 7514
+#KONTO 7387 "Kostnader fîr lÜnedatorer"
+#KTYP 7387 K
+#SRU 7387 7514
+#KONTO 7389 "ôvriga kostn naturafîrm"
+#KTYP 7389 K
+#SRU 7389 7514
+#KONTO 7390 "ôvriga kostnadsersÑttningar o"
+#KTYP 7390 K
+#SRU 7390 7514
+#KONTO 7391 "ReskontnadsersÑttning mot utlÑgg"
+#KTYP 7391 K
+#SRU 7391 7514
+#KONTO 7392 "Kostnad fîr fîrmÜn av hushÜllsnÑra tjÑnster"
+#KTYP 7392 K
+#SRU 7392 7514
+#KONTO 7399 "Motkontering av fîrmÜn"
+#KTYP 7399 K
+#SRU 7399 7514
+#KONTO 7410 PensionsfîrsÑkringspremier
+#KTYP 7410 K
+#SRU 7410 7514
+#KONTO 7411 "Kollektiv pensionsfîrsÑkr"
+#KTYP 7411 K
+#SRU 7411 7514
+#KONTO 7412 "Indiv pensionsfîrsÑkring"
+#KTYP 7412 K
+#SRU 7412 7514
+#KONTO 7420 "FîrÑndring av pensionsskuld"
+#KTYP 7420 K
+#SRU 7420 7514
+#KONTO 7461 "Pensionsutbetalningar till kollektivanst"
+#KTYP 7461 K
+#SRU 7461 7514
+#KONTO 7462 "Pensionsutbetalningar till tjÑnstemÑn"
+#KTYP 7462 K
+#SRU 7462 7514
+#KONTO 7470 "Fîrvaltnings- och kreditfîrsÑ"
+#KTYP 7470 K
+#SRU 7470 7514
+#KONTO 7490 "ôvriga pensionskostnader"
+#KTYP 7490 K
+#SRU 7490 7514
+#KONTO 7510 "Lagstadgade arbetsgivaravgift"
+#KTYP 7510 K
+#SRU 7510 7514
+#KONTO 7511 "NedsÑttning av arbetsgivaravg"
+#KTYP 7511 K
+#SRU 7511 7514
+#KONTO 7515 "NedsÑttning av arbetsgivaravg"
+#KTYP 7515 K
+#SRU 7515 7514
+#KONTO 7519 "Soc.avgifter semesterlîn"
+#KTYP 7519 K
+#SRU 7519 7514
+#KONTO 7520 "Arbetsgivaravg (nya pensionssystemet)"
+#KTYP 7520 K
+#SRU 7520 7514
+#KONTO 7521 "Arbgivaravg lîner ers (nya pensionssyst)"
+#KTYP 7521 K
+#SRU 7521 7514
+#KONTO 7530 Lîneskatt
+#KTYP 7530 K
+#SRU 7530 7514
+#KONTO 7531 Lîneskatt
+#KTYP 7531 K
+#SRU 7531 7514
+#KONTO 7532 "SÑrskild lîneskatt pÜ pensionskostnader, deklarationspost"
+#KTYP 7532 K
+#SRU 7532 7514
+#KONTO 7533 "SÑrsk lîneskatt pensionsk"
+#KTYP 7533 K
+#SRU 7533 7514
+#KONTO 7540 "SÑrsk sjukfîrsÑk avg"
+#KTYP 7540 K
+#SRU 7540 7514
+#KONTO 7560 "Arbgivaravgifter under 26 Ür"
+#KTYP 7560 K
+#SRU 7560 7514
+#KONTO 7570 "AMF enl avtal"
+#KTYP 7570 K
+#SRU 7570 7514
+#KONTO 7571 "ArbetsmarknadsfîrsÑkringar fîrsÑkringsavgifter"
+#KTYP 7571 K
+#SRU 7571 7514
+#KONTO 7572 "Arbetsmarkn.fîrsÑkringar pensionsfîrsÑkr.premier, dekl.fond"
+#KTYP 7572 K
+#SRU 7572 7514
+#KONTO 7573 "ArbetsmarknadsfîrsÑkringar, betalda premier och avgifter"
+#KTYP 7573 K
+#SRU 7573 7514
+#KONTO 7580 GruppfîrsÑkringspremier
+#KTYP 7580 K
+#SRU 7580 7514
+#KONTO 7583 GruppolycksfallsfîrsÑkringspremier
+#KTYP 7583 K
+#SRU 7583 7514
+#KONTO 7589 "ôvr gruppfîrsÑkringspremier"
+#KTYP 7589 K
+#SRU 7589 7514
+#KONTO 7590 "ôvr sociala o andra avgifter enligt lag o avtal"
+#KTYP 7590 K
+#SRU 7590 7514
+#KONTO 7600 "ôvriga personalkostnader (gru"
+#KTYP 7600 K
+#SRU 7600 7514
+#KONTO 7610 Utbildning
+#KTYP 7610 K
+#SRU 7610 7514
+#KONTO 7620 "Sjuk- och hÑlsovÜrd"
+#KTYP 7620 K
+#SRU 7620 7514
+#KONTO 7621 "Sjuk- och hÑlsovÜrd, avdragsgill"
+#KTYP 7621 K
+#SRU 7621 7514
+#KONTO 7622 "Sjuk- och hÑlsovÜrd, ej avdragsgill"
+#KTYP 7622 K
+#SRU 7622 7514
+#KONTO 7623 "SjukvÜrdsfîrsÑkring, ej avdragsgill"
+#KTYP 7623 K
+#SRU 7623 7514
+#KONTO 7630 Personalrepresentation
+#KTYP 7630 K
+#SRU 7630 7514
+#KONTO 7631 "Personalrepresentation, avdragsgill"
+#KTYP 7631 K
+#SRU 7631 7514
+#KONTO 7632 "Personalrepresentation, ej avdragsgill"
+#KTYP 7632 K
+#SRU 7632 7514
+#KONTO 7650 SjuklînefîrsÑkring
+#KTYP 7650 K
+#SRU 7650 7514
+#KONTO 7690 "ôvriga personalkostnader"
+#KTYP 7690 K
+#SRU 7690 7514
+#KONTO 7710 "Nedskrivn av imm anl tillg"
+#KTYP 7710 K
+#SRU 7710 7515
+#KONTO 7720 "Nedskrivn av byggnader och mark"
+#KTYP 7720 K
+#SRU 7720 7515
+#KONTO 7730 "Nedskrivningar av maskiner oc"
+#KTYP 7730 K
+#SRU 7730 7515
+#KONTO 7760 "èterfîring av nedskrivn imm anl tillg"
+#KTYP 7760 I
+#SRU 7760 7515
+#KONTO 7770 "èterfîring av nedskrivn byggn/mark"
+#KTYP 7770 I
+#SRU 7770 7515
+#KONTO 7780 "èterfîring av nedskrivn maskiner/inv"
+#KTYP 7780 I
+#SRU 7780 7515
+#KONTO 7810 "Avskrivningar imm anl tillg"
+#KTYP 7810 K
+#SRU 7810 7515
+#KONTO 7811 "Avskrivningar balanserade utgifter"
+#KTYP 7811 K
+#SRU 7811 7515
+#KONTO 7813 "Avskrivningar patent"
+#KTYP 7813 K
+#SRU 7813 7515
+#KONTO 7814 "Avskrivningar licenser"
+#KTYP 7814 K
+#SRU 7814 7515
+#KONTO 7815 "Avskrivningar varumÑrken"
+#KTYP 7815 K
+#SRU 7815 7515
+#KONTO 7816 "Avskrivningar hyresrÑtt"
+#KTYP 7816 K
+#SRU 7816 7515
+#KONTO 7817 "Avskrivningar goodwill"
+#KTYP 7817 K
+#SRU 7817 7515
+#KONTO 7820 "Avskrivningar byggnader/mark"
+#KTYP 7820 K
+#SRU 7820 7515
+#KONTO 7821 "Avskrivn byggnader"
+#KTYP 7821 K
+#SRU 7821 7515
+#KONTO 7822 "Avskrivn byggnadsinv"
+#KTYP 7822 K
+#SRU 7822 7515
+#KONTO 7824 "Avskrivn markanlÑggn"
+#KTYP 7824 K
+#SRU 7824 7515
+#KONTO 7829 "Avskrivningar îvr byggnader"
+#KTYP 7829 K
+#SRU 7829 7515
+#KONTO 7830 "Avskrivningar pÜ maskiner och"
+#KTYP 7830 K
+#SRU 7830 7515
+#KONTO 7831 "Avskrivn arbetsmaskiner"
+#KTYP 7831 K
+#SRU 7831 7515
+#KONTO 7832 "Avskrivn inventarier"
+#KTYP 7832 K
+#SRU 7832 7515
+#KONTO 7833 "Avskrivningar installationer"
+#KTYP 7833 K
+#SRU 7833 7515
+#KONTO 7834 "Avskrivning bilar"
+#KTYP 7834 K
+#SRU 7834 7515
+#KONTO 7835 "Avskrivningar datorer"
+#KTYP 7835 K
+#SRU 7835 7515
+#KONTO 7836 "Avskrivningar leasade tillg"
+#KTYP 7836 K
+#SRU 7836 7515
+#KONTO 7837 "Avskrivningar anlÑggningsdjur"
+#KTYP 7837 K
+#SRU 7837 7515
+#KONTO 7840 "Avskrivningar pÜ fîrbÑttringutgifter pÜ annans fastighet"
+#KTYP 7840 K
+#SRU 7840 7515
+#KONTO 7933 "Avskrivningar installationer"
+#KTYP 7933 K
+#SRU 7933 7517
+#KONTO 7940 "Orealiserad positiv vÑrdefîr sÑkr instr"
+#KTYP 7940 K
+#SRU 7940 7517
+#KONTO 7960 Kursfîrluster
+#KTYP 7960 K
+#SRU 7960 7517
+#KONTO 7970 "Fîrlust vid avyttring, immate"
+#KTYP 7970 K
+#SRU 7970 7517
+#KONTO 7971 "Fîrlust avyttr imm anl tillg"
+#KTYP 7971 K
+#SRU 7971 7517
+#KONTO 7972 "Fîrlust avyttr fastigheter"
+#KTYP 7972 K
+#SRU 7972 7517
+#KONTO 7973 "Fîrlust vid avyttring av mask o invent"
+#KTYP 7973 K
+#SRU 7973 7517
+#KONTO 7977 "Fîrlust avyttr anlÑggningsdjur"
+#KTYP 7977 K
+#SRU 7977 7517
+#KONTO 7990 "ôvriga rîrelsekostnader"
+#KTYP 7990 K
+#SRU 7990 7517
+#KONTO 8012 "Utdeln andelar dotterbolag"
+#KTYP 8012 I
+#SRU 8012 7414
+#KONTO 8014 Koncernbidrag
+#KTYP 8014 I
+#SRU 8014 7414
+#KONTO 8019 "ôvr utdeln andelar koncernftg"
+#KTYP 8019 I
+#SRU 8019 7414
+#KONTO 8200 RÑnteintÑkter
+#KTYP 8200 K
+#SRU 8200 7416
+#KONTO 8210 "Utdeln andelar andra fîretag"
+#KTYP 8210 I
+#SRU 8210 7416
+#KONTO 8221 "Res fîrs andelar îvr fîretag"
+#KTYP 8221 I
+#SRU 8221 7416
+#KONTO 8222 "Res lf fordr îvr fîretag"
+#KTYP 8222 I
+#SRU 8222 7416
+#KONTO 8223 "Res fîrs derivat"
+#KTYP 8223 I
+#SRU 8223 7416
+#KONTO 8230 "Valutakursdiff lÜngfr fordr"
+#KTYP 8230 I
+#SRU 8230 7416
+#KONTO 8240 "RÑnteintÑkter ej skatteplikti"
+#KTYP 8240 K
+#SRU 8240 7416
+#KONTO 8251 "RÑnteintÑkter frÜn lÜngfristiga fordringar"
+#KTYP 8251 I
+#SRU 8251 7416
+#KONTO 8254 "Skattefria rÑnteintÑkter, lÜngf tillgÜngar"
+#KTYP 8254 I
+#SRU 8254 7416
+#KONTO 8270 "Nedskr andel/lf fordr îvr ftg"
+#KTYP 8270 I
+#SRU 8270 7521
+#KONTO 8280 "èterf nedskr and/lf ford î ftg"
+#KTYP 8280 I
+#SRU 8280 7521
+#KONTO 8290 "Orealiserade fîrÑndr anlÑggningstillg"
+#KTYP 8290 I
+#SRU 8290 7416
+#KONTO 8291 "Orealiserade fîrÑndr anlÑggningstillg"
+#KTYP 8291 I
+#SRU 8291 7416
+#KONTO 8295 "Orealiserade fîrÑndr derivat"
+#KTYP 8295 I
+#SRU 8295 7416
+#KONTO 8300 RÑnteintÑkter
+#KTYP 8300 I
+#SRU 8300 7417
+#KONTO 8310 "RÑnteintÑkter frÜn omsÑttning"
+#KTYP 8310 K
+#SRU 8310 7417
+#KONTO 8311 "RÑnteintÑkter frÜn bank"
+#KTYP 8311 K
+#SRU 8311 7417
+#KONTO 8313 "RÑnteintÑkter kundfordringar"
+#KTYP 8313 I
+#SRU 8313 7417
+#KONTO 8314 "RÑnteintÑkter skattekonto"
+#KTYP 8314 K
+#SRU 8314 7417
+#KONTO 8320 "Orealiserade fîrÑndr omsÑttn tillg"
+#KTYP 8320 I
+#SRU 8320 7417
+#KONTO 8321 "Orealiserade fîrÑndr omsÑttn tillg"
+#KTYP 8321 I
+#SRU 8321 7417
+#KONTO 8325 "Orealiserade fîrÑndr derivat"
+#KTYP 8325 I
+#SRU 8325 7417
+#KONTO 8331 Valutakursvinster
+#KTYP 8331 I
+#SRU 8331 7417
+#KONTO 8336 Valutakursfîrluster
+#KTYP 8336 K
+#SRU 8336 7417
+#KONTO 8390 "ôvr finansiella intÑkter"
+#KTYP 8390 I
+#SRU 8390 7417
+#KONTO 8400 RÑntekostnader
+#KTYP 8400 K
+#SRU 8400 7522
+#KONTO 8420 "RÑntekostnader fîr kortfristi"
+#KTYP 8420 K
+#SRU 8420 7522
+#KONTO 8422 "RÑntekostnad levfakturor"
+#KTYP 8422 K
+#SRU 8422 7522
+#KONTO 8423 "RÑnta skattekonto"
+#KTYP 8423 K
+#SRU 8423 7522
+#KONTO 8431 "Valutakursvinst skulder"
+#KTYP 8431 I
+#SRU 8431 7522
+#KONTO 8436 "Valutakursfîrlust skulder"
+#KTYP 8436 K
+#SRU 8436 7522
+#KONTO 8440 "RÑnte kostnader ej avdragsgil"
+#KTYP 8440 K
+#SRU 8440 7522
+#KONTO 8450 "Orealiserade fîrÑndr skulder"
+#KTYP 8450 K
+#SRU 8450 7522
+#KONTO 8451 "Orealiserade fîrÑndr skulder"
+#KTYP 8451 K
+#SRU 8451 7522
+#KONTO 8452 "Orealiserade fîrÑndr sÑkr instr"
+#KTYP 8452 K
+#SRU 8452 7522
+#KONTO 8490 "ôvriga finansiella kostnader"
+#KTYP 8490 K
+#SRU 8490 7522
+#KONTO 8810 "FîrÑndring av periodiseringsf"
+#KTYP 8810 K
+#SRU 8810 7525
+#KONTO 8811 "AvsÑttning per fond"
+#KTYP 8811 K
+#SRU 8811 7525
+#KONTO 8819 "èterfîring av periodiseringsf"
+#KTYP 8819 K
+#SRU 8819 7420
+#KONTO 8820 "Mottagna koncernbidrag"
+#KTYP 8820 K
+#SRU 8820 7419
+#KONTO 8830 "LÑmnade koncernbidrag"
+#KTYP 8830 K
+#SRU 8830 7524
+#KONTO 8850 "Avskrivn îver/under plan"
+#KTYP 8850 K
+#SRU 8850 7526
+#KONTO 8851 "ôveravskrivningar imm anl tillg"
+#KTYP 8851 K
+#SRU 8851 7526
+#KONTO 8852 "ôveravskrivningar byggnader/mark"
+#KTYP 8852 K
+#SRU 8852 7526
+#KONTO 8853 "ôveravskrivningar maskiner/inv"
+#KTYP 8853 K
+#SRU 8853 7526
+#KONTO 8857 "ôveravskrivningar anlÑggningsdjur"
+#KTYP 8857 K
+#SRU 8857 7526
+#KONTO 8896 "FîrÑndring lagerreserv"
+#KTYP 8896 K
+#SRU 8896 7422
+#KONTO 8910 "Skatt pÜ Ürets beskattningsba"
+#KTYP 8910 K
+#SRU 8910 7528
+#KONTO 8920 "Skatt pÜ grund av Ñndrad taxe"
+#KTYP 8920 K
+#SRU 8920 7528
+#KONTO 8990 Resultat
+#KTYP 8990 K
+#SRU 8990 7450
+#KONTO 8999 "èrets resultat"
+#KTYP 8999 K
+#SRU 8999 7450
+#KONTO 9999 Observationskonto
+#KTYP 9999 K
+#DIM 1 Resultatenhet
+#IB 0 1220 15504.00
+#UB 0 1220 15504.00
+#IB 0 1229 -15504.00
+#UB 0 1229 -15504.00
+#IB 0 1510 53962.00
+#UB 0 1510 56068.00
+#IB 0 1630 -10.00
+#UB 0 1630 64.00
+#IB 0 1790 1153.02
+#UB 0 1790 1060.99
+#IB 0 1930 152028.17
+#UB 0 1930 88320.67
+#IB 0 2081 -100000.00
+#UB 0 2081 -100000.00
+#IB 0 2086 -5800.00
+#UB 0 2086 -5800.00
+#IB 0 2091 32637.03
+#UB 0 2091 32637.03
+#IB 0 2098 30439.26
+#UB 0 2098 30439.26
+#IB 0 2099 -117336.02
+#UB 0 2099 -117336.02
+#IB 0 2393 -3285.46
+#UB 0 2393 -3285.46
+#IB 0 2440 -900.00
+#UB 0 2440 -1750.00
+#IB 0 2510 -23478.00
+#UB 0 2510 -23478.00
+#IB 0 2611 -10792.36
+#UB 0 2611 -8713.50
+#IB 0 2641 1251.36
+#UB 0 2641 3179.75
+#UB 0 2710 -4145.00
+#UB 0 2940 -6016.13
+#IB 0 2990 -9869.00
+#UB 0 2990 -9869.00
+#RES 0 3041 -367000.00
+#RES 0 3044 -52800.00
+#RES 0 3590 -12357.18
+#RES 0 3740 -6.50
+#RES 0 4010 10643.01
+#RES 0 4020 7166.02
+#RES 0 5410 6540.20
+#RES 0 5411 13505.00
+#RES 0 5412 120.00
+#RES 0 5420 500.00
+#RES 0 5800 1571.00
+#RES 0 5810 7976.23
+#RES 0 5830 5900.44
+#RES 0 5831 3826.00
+#RES 0 5840 3720.84
+#RES 0 6071 7195.73
+#RES 0 6072 8095.60
+#RES 0 6110 483.00
+#RES 0 6530 13450.00
+#RES 0 6540 1317.62
+#RES 0 6570 913.28
+#RES 0 6970 136.79
+#RES 0 6981 6216.00
+#RES 0 6991 69.00
+#RES 0 6992 6839.05
+#RES 0 7220 292134.00
+#RES 0 7510 91788.51
+#RES 0 7620 10265.77
+#RES 0 8314 -18.00
+#RES 0 8423 432.00
+#IB -1 1220 15504.00
+#UB -1 1220 15504.00
+#IB -1 1229 -15504.00
+#UB -1 1229 -15504.00
+#IB -1 1510 50000.00
+#UB -1 1510 53962.00
+#IB -1 1630 -140.00
+#UB -1 1630 -10.00
+#UB -1 1790 1153.02
+#IB -1 1930 32257.17
+#UB -1 1930 152028.17
+#IB -1 2081 -100000.00
+#UB -1 2081 -100000.00
+#IB -1 2086 -5800.00
+#UB -1 2086 -5800.00
+#IB -1 2091 12778.33
+#UB -1 2091 32637.03
+#IB -1 2098 19858.70
+#UB -1 2098 30439.26
+#IB -1 2099 30439.26
+#UB -1 2099 -117336.02
+#IB -1 2393 -6332.96
+#UB -1 2393 -3285.46
+#IB -1 2440 -1901.50
+#UB -1 2440 -900.00
+#UB -1 2510 -23478.00
+#IB -1 2650 -9083.00
+#UB -1 2650 -9541.00
+#IB -1 2710 -8539.00
+#IB -1 2940 -10537.00
+#IB -1 2990 -3000.00
+#UB -1 2990 -9869.00
+#RES -1 3041 -341500.00
+#RES -1 3044 -100800.00
+#RES -1 3051 -8337.95
+#RES -1 3550 -6957.24
+#RES -1 3590 -11840.51
+#RES -1 3740 -3.68
+#RES -1 4010 15992.50
+#RES -1 4020 3181.64
+#RES -1 5410 7144.00
+#RES -1 5800 17083.99
+#RES -1 5810 9573.00
+#RES -1 5830 6529.00
+#RES -1 5831 4253.00
+#RES -1 5832 1649.00
+#RES -1 5840 1086.00
+#RES -1 5880 455.00
+#RES -1 6071 7217.24
+#RES -1 6072 2271.00
+#RES -1 6110 118.40
+#RES -1 6212 2903.00
+#RES -1 6310 374.00
+#RES -1 6530 9900.00
+#RES -1 6540 224.00
+#RES -1 6570 913.36
+#RES -1 6580 430.00
+#RES -1 6970 2598.00
+#RES -1 6992 3205.00
+#RES -1 7082 -16098.72
+#RES -1 7220 163748.00
+#RES -1 7290 16098.72
+#RES -1 7510 51449.61
+#RES -1 7620 15841.62
+#RES -1 8400 55.00
+#RES -1 8423 430.00
+#RES -1 8910 23478.00
+#RES -1 8999 117336.02
+#VER A 1 20150902 "Utbetalningsjournal nr 136" 20160122
+{
+   #TRANS 1930 {} -1011.25
+   #TRANS 2440 {} 1011.25
+}
+#VER A 2 20150912 Skattedeklaration 20160122
+{
+   #TRANS 1630 {} 1.00
+   #TRANS 1630 {} -1.00
+}
+#VER A 3 20150914 "Utbetalningsjournal nr 137" 20160122
+{
+   #TRANS 1930 {} -6131.00
+   #TRANS 2440 {} 6131.00
+}
+#VER A 4 20150925 "Utbetalningsjournal nr 138" 20160122
+{
+   #TRANS 1930 {} -63.00
+   #TRANS 2440 {} 63.00
+}
+#VER A 5 20150925 "Inbetalningsjournal nr 63" 20160122
+{
+   #TRANS 1930 {} 50000.00
+   #TRANS 1510 {} -50000.00
+}
+#VER A 6 20150930 "Fakturajournal nr 31" 20160122
+{
+   #TRANS 1510 {} 78125.00
+   #TRANS 2611 {} -15625.00
+   #TRANS 3041 {} -62500.00
+}
+#VER A 7 20150930 "Leverantîrsfakturajournal nr 41" 20160122
+{
+   #TRANS 1790 {} 2491.39
+   #TRANS 2641 {} 138.00
+   #TRANS 2648 {} 149.00
+   #TRANS 4010 {} 249.61
+   #TRANS 5410 {} 40.00
+   #TRANS 5810 {} 1120.00
+   #TRANS 5840 {} 527.00
+   #TRANS 6071 {} 214.00
+   #TRANS 6540 {} 89.25
+   #TRANS 7620 {} 3778.39
+   #TRANS 2440 {} -6305.25
+   #TRANS 7620 {} -2491.39
+}
+#VER A 8 20150930 "Momsrapport 2015-07-01 - 2015-09-30" 20160122
+{
+   #TRANS 2611 {} 26417.36
+   #TRANS 2641 {} -1389.00
+   #TRANS 2650 {} -25028.00
+   #TRANS 3740 {} -0.36
+}
+#VER A 9 20150930 "AvstÑmning Skattekontot" 20160122
+{
+   #TRANS 1630 {} 1.00
+   #TRANS 1630 {} -1.00
+}
+#VER A 10 20150930 "Periodisering av levfaktura 205" 20160122
+{
+   #TRANS 6540 {} 60.00
+   #TRANS 1790 {} -60.00
+}
+#VER A 11 20150930 "Periodisering av levfaktura 207" 20160122
+{
+   #TRANS 7620 {} 207.62
+   #TRANS 1790 {} -207.62
+}
+#VER A 12 20150930 "Periodisering av verifikation 42" 20160122
+{
+   #TRANS 1790 {} -104.17
+   #TRANS 6570 {} 104.17
+}
+#VER A 13 20151007 "Utbetalningsjournal nr 139" 20160301
+{
+   #TRANS 1930 {} -2523.00
+   #TRANS 2440 {} 2523.00
+}
+#VER A 14 20151012 Skattedeklaration 20160301
+{
+   #TRANS 1630 {} 1.00
+   #TRANS 1630 {} -1.00
+}
+#VER A 15 20151012 "Utbetalningsjournal nr 140" 20160301
+{
+   #TRANS 1930 {} -875.00
+   #TRANS 2440 {} 875.00
+}
+#VER A 16 20151019 Lîn 20160301
+{
+   #TRANS 1930 {} -35000.00
+   #TRANS 2710 {} -18523.00
+   #TRANS 2940 {} -16816.93
+   #TRANS 7220 {} 53523.00
+   #TRANS 7510 {} 16816.93
+}
+#VER A 17 20151021 "Utbetalningsjournal nr 141" 20160301
+{
+   #TRANS 1930 {} -500.00
+   #TRANS 2440 {} 500.00
+}
+#VER A 18 20151028 "Inbetalningsjournal nr 64" 20160301
+{
+   #TRANS 1930 {} 40625.00
+   #TRANS 1510 {} -40625.00
+}
+#VER A 19 20151031 "Fakturajournal nr 32" 20160301
+{
+   #TRANS 1510 {} 52800.00
+   #TRANS 3044 {} -52800.00
+}
+#VER A 20 20151031 "Leverantîrsfakturajournal nr 42" 20160301
+{
+   #TRANS 2641 {} 208.01
+   #TRANS 5810 {} 50.94
+   #TRANS 5840 {} 592.00
+   #TRANS 6530 {} 500.00
+   #TRANS 6991 {} 9.00
+   #TRANS 6992 {} 553.05
+   #TRANS 7620 {} 1985.00
+   #TRANS 2440 {} -3898.00
+}
+#VER A 21 20151031 "AvstÑmning Skattekontot" 20160301
+{
+   #TRANS 1630 {} 1.00
+   #TRANS 1630 {} -1.00
+}
+#VER A 22 20151031 "Periodisering av levfaktura 198" 20160301
+{
+   #TRANS 6540 {} 18.67
+   #TRANS 1790 {} -18.67
+}
+#VER A 23 20151031 "Periodisering av levfaktura 205" 20160301
+{
+   #TRANS 6540 {} 60.00
+   #TRANS 1790 {} -60.00
+}
+#VER A 24 20151031 "Periodisering av levfaktura 207" 20160301
+{
+   #TRANS 7620 {} 207.62
+   #TRANS 1790 {} -207.62
+}
+#VER A 25 20151031 "Periodisering av verifikation 42" 20160301
+{
+   #TRANS 1790 {} -104.17
+   #TRANS 6570 {} 104.17
+}
+#VER A 26 20151109 "Utbetalningsjournal nr 142" 20160301
+{
+   #TRANS 1930 {} -9357.00
+   #TRANS 2440 {} 9357.00
+}
+#VER A 27 20151112 Skattedeklaration 20160301
+{
+   #TRANS 2650 {} 25028.00
+   #TRANS 2940 {} 16816.93
+   #TRANS 2710 {} 18523.00
+   #TRANS 3740 {} -0.93
+   #TRANS 1630 {} -60367.00
+}
+#VER A 28 20151113 "Utbetalningsjournal nr 143" 20160301
+{
+   #TRANS 1630 {} 60400.00
+   #TRANS 1930 {} -61900.00
+   #TRANS 2440 {} 1500.00
+}
+#VER A 29 20151126 Lîn 20160301
+{
+   #TRANS 1930 {} -25000.00
+   #TRANS 2710 {} -8533.00
+   #TRANS 2940 {} -10536.07
+   #TRANS 7220 {} 33533.00
+   #TRANS 7510 {} 10536.07
+}
+#VER A 30 20151130 "Fakturajournal nr 33" 20160301
+{
+   #TRANS 1510 {} 97753.00
+   #TRANS 2611 {} -19550.55
+   #TRANS 3041 {} -74000.00
+   #TRANS 3590 {} -4202.18
+   #TRANS 3740 {} -0.27
+}
+#VER A 31 20151130 "Leverantîrsfakturajournal nr 43" 20160301
+{
+   #TRANS 2641 {} 1139.94
+   #TRANS 4010 {} 2712.00
+   #TRANS 4020 {} 1851.02
+   #TRANS 5840 {} 522.26
+   #TRANS 6071 {} 997.98
+   #TRANS 6072 {} 796.80
+   #TRANS 6530 {} 1200.00
+   #TRANS 6992 {} 1637.00
+   #TRANS 2440 {} -10857.00
+}
+#VER A 32 20151130 "AvstÑmning Skattekontot" 20160301
+{
+   #TRANS 1630 {} -27.00
+   #TRANS 8423 {} 27.00
+}
+#VER A 33 20151130 "Periodisering av levfaktura 198" 20160301
+{
+   #TRANS 6540 {} 18.67
+   #TRANS 1790 {} -18.67
+}
+#VER A 34 20151130 "Periodisering av levfaktura 205" 20160301
+{
+   #TRANS 6540 {} 60.00
+   #TRANS 1790 {} -60.00
+}
+#VER A 35 20151130 "Periodisering av levfaktura 207" 20160301
+{
+   #TRANS 7620 {} 207.62
+   #TRANS 1790 {} -207.62
+}
+#VER A 36 20151130 "Periodisering av verifikation 42" 20160301
+{
+   #TRANS 1790 {} -104.17
+   #TRANS 6570 {} 104.17
+}
+#VER A 37 20151204 "Utbetalningsjournal nr 144" 20160301
+{
+   #TRANS 1930 {} -19751.00
+   #TRANS 2440 {} 19751.00
+}
+#VER A 38 20151209 "Inbetalningsjournal nr 65" 20160301
+{
+   #TRANS 1930 {} 18750.00
+   #TRANS 1510 {} -18750.00
+}
+#VER A 39 20151210 "Inbetalningsjournal nr 66" 20160301
+{
+   #TRANS 1930 {} 12500.00
+   #TRANS 1510 {} -12500.00
+}
+#VER A 40 20151214 Skattedeklaration 20160301
+{
+   #TRANS 2940 {} 10536.07
+   #TRANS 2710 {} 8533.00
+   #TRANS 3740 {} -0.07
+   #TRANS 1630 {} -19069.00
+}
+#VER A 41 20151215 "Inbetalningsjournal nr 67" 20160301
+{
+   #TRANS 1930 {} 35253.00
+   #TRANS 1510 {} -35253.00
+}
+#VER A 42 20151218 "Inbetalningsjournal nr 68" 20160301
+{
+   #TRANS 1930 {} 12500.00
+   #TRANS 1510 {} -12500.00
+}
+#VER A 43 20151221 Lîn 20160301
+{
+   #TRANS 1930 {} -25000.00
+   #TRANS 2710 {} -8533.00
+   #TRANS 2940 {} -10536.07
+   #TRANS 7220 {} 33533.00
+   #TRANS 7510 {} 10536.07
+}
+#VER A 44 20151221 "Inbetalning Skattekontot" 20160301
+{
+   #TRANS 1630 {} 19100.00
+   #TRANS 1930 {} -19100.00
+}
+#VER A 45 20151229 "Inbetalningsjournal nr 69" 20160301
+{
+   #TRANS 1930 {} 52800.00
+   #TRANS 1510 {} -52800.00
+}
+#VER A 46 20151231 "Fakturajournal nr 34" 20160301
+{
+   #TRANS 1510 {} 133125.00
+   #TRANS 2611 {} -26625.00
+   #TRANS 3041 {} -106500.00
+}
+#VER A 47 20151231 "Leverantîrsfakturajournal nr 44" 20160301
+{
+   #TRANS 2641 {} 2784.25
+   #TRANS 4010 {} 2725.40
+   #TRANS 5410 {} 4730.20
+   #TRANS 5810 {} 1295.29
+   #TRANS 5830 {} 2726.44
+   #TRANS 5840 {} 1517.08
+   #TRANS 6071 {} 2802.75
+   #TRANS 6072 {} 659.80
+   #TRANS 6970 {} 136.79
+   #TRANS 6992 {} 373.00
+   #TRANS 2440 {} -19751.00
+}
+#VER A 48 20151231 "Momsrapport 2015-10-01 - 2015-12-31" 20160301
+{
+}
+#VER A 49 20151231 "Momsrapport 2015-10-01 - 2015-12-31" 20160301
+{
+   #TRANS 2611 {} 46175.55
+   #TRANS 3740 {} 0.01
+   #TRANS 2641 {} -4132.56
+   #TRANS 2650 {} -42043.00
+}
+#VER A 50 20151231 "AvstÑmning Skattekontot" 20160301
+{
+   #TRANS 1630 {} -60.00
+   #TRANS 8423 {} 60.00
+}
+#VER A 51 20151231 "Periodisering av levfaktura 198" 20160301
+{
+   #TRANS 6540 {} 18.67
+   #TRANS 1790 {} -18.67
+}
+#VER A 52 20151231 "Periodisering av levfaktura 205" 20160301
+{
+   #TRANS 6540 {} 60.00
+   #TRANS 1790 {} -60.00
+}
+#VER A 53 20151231 "Periodisering av levfaktura 207" 20160301
+{
+   #TRANS 7620 {} 207.62
+   #TRANS 1790 {} -207.62
+}
+#VER A 54 20151231 "Periodisering av verifikation 42" 20160301
+{
+   #TRANS 1790 {} -104.13
+   #TRANS 6570 {} 104.13
+}
+#VER A 55 20160101 "Omfîring felbokat" 20160301
+{
+   #TRANS 2648 {} -149.00
+   #TRANS 2641 {} 149.00
+}
+#VER A 56 20160101 "HB Fîretagspaket" 20160507
+{
+   #TRANS 6570 {} 1250.00
+   #TRANS 1930 {} -1250.00
+}
+#VER A 57 20160104 "Inbetalningsjournal nr 70" 20160507
+{
+   #TRANS 1930 {} 80000.00
+   #TRANS 1510 {} -80000.00
+}
+#VER A 58 20160105 "Utbetalningsjournal nr 145" 20160507
+{
+   #TRANS 1930 {} -2250.00
+   #TRANS 2440 {} 2250.00
+}
+#VER A 59 20160108 "Inbetalningsjournal nr 71" 20160507
+{
+   #TRANS 1930 {} 40625.00
+   #TRANS 1510 {} -40625.00
+}
+#VER A 60 20160111 "Utbetalningsjournal nr 146" 20160507
+{
+   #TRANS 1930 {} -2848.00
+   #TRANS 2440 {} 2848.00
+}
+#VER A 61 20160115 "Utbetalningsjournal nr 147" 20160507
+{
+   #TRANS 1930 {} -280.00
+   #TRANS 2440 {} 280.00
+}
+#VER A 62 20160117 Skattedeklaration 20160507
+{
+   #TRANS 2940 {} 10536.07
+   #TRANS 2710 {} 8533.00
+   #TRANS 3740 {} -0.07
+   #TRANS 1630 {} -19069.00
+}
+#VER A 63 20160117 "Inkîp Skrivaare El-Giganten" 20160507
+{
+   #TRANS 1930 {} -1695.00
+   #TRANS 2641 {} 339.00
+   #TRANS 5410 {} 1356.00
+}
+#VER A 64 20160120 "Utbetalningsjournal nr 148" 20160507
+{
+   #TRANS 1930 {} -268.00
+   #TRANS 2440 {} 268.00
+}
+#VER A 65 20160125 Lîn 20160507
+{
+   #TRANS 1930 {} -25000.00
+   #TRANS 2710 {} -8545.00
+   #TRANS 2940 {} -10539.84
+   #TRANS 7220 {} 33545.00
+   #TRANS 7510 {} 10539.84
+}
+#VER A 66 20160125 "Utbetalningsjournal nr 149" 20160507
+{
+   #TRANS 1930 {} -2000.00
+   #TRANS 2440 {} 2000.00
+}
+#VER A 67 20160129 "Inbetalning Skattekontot" 20160507
+{
+   #TRANS 1630 {} 19200.00
+   #TRANS 1930 {} -19200.00
+}
+#VER A 68 20160131 "Fakturajournal nr 35" 20160507
+{
+   #TRANS 1510 {} 62500.00
+   #TRANS 2611 {} -12500.00
+   #TRANS 3041 {} -50000.00
+}
+#VER A 69 20160131 "Leverantîrsfakturajournal nr 45" 20160507
+{
+   #TRANS 2641 {} 893.00
+   #TRANS 4010 {} 790.00
+   #TRANS 5410 {} 374.00
+   #TRANS 5420 {} 500.00
+   #TRANS 6071 {} 1250.00
+   #TRANS 6530 {} 2200.00
+   #TRANS 6540 {} 224.00
+   #TRANS 6991 {} 60.00
+   #TRANS 7620 {} 1980.00
+   #TRANS 2440 {} -8271.00
+}
+#VER A 70 20160131 "AvstÑmning Skattekontot" 20160507
+{
+   #TRANS 1630 {} -93.00
+   #TRANS 8423 {} 93.00
+}
+#VER A 71 20160131 "Periodisering av levfaktura 205" 20160507
+{
+   #TRANS 6540 {} 60.00
+   #TRANS 1790 {} -60.00
+}
+#VER A 72 20160131 "Periodisering av levfaktura 207" 20160507
+{
+   #TRANS 7620 {} 207.62
+   #TRANS 1790 {} -207.62
+}
+#VER A 73 20160131 "Periodisering av verifikation 56" 20160507
+{
+   #TRANS 6570 {} -104.17
+   #TRANS 1790 {} 104.17
+}
+#VER A 74 20160131 "Periodisering av levfaktura 198" 20160507
+{
+   #TRANS 6540 {} 18.67
+   #TRANS 1790 {} -18.67
+}
+#VER A 75 20160208 "Utbetalningsjournal nr 150" 20160507
+{
+   #TRANS 1930 {} -10774.00
+   #TRANS 2440 {} 10744.00
+   #TRANS 2449 {} 30.00
+}
+#VER A 76 20160212 Skattedeklaration 20160507
+{
+   #TRANS 2650 {} 42043.00
+   #TRANS 2940 {} 10539.84
+   #TRANS 2710 {} 8545.00
+   #TRANS 3740 {} -0.84
+   #TRANS 1630 {} -61127.00
+}
+#VER A 77 20160212 "Sjîboden repr" 20160507
+{
+   #TRANS 1930 {} -5200.00
+   #TRANS 6072 {} 4797.00
+   #TRANS 6071 {} 360.00
+   #TRANS 2641 {} 43.00
+}
+#VER A 78 20160215 "Utbetalningsjournal nr 151" 20160507
+{
+   #TRANS 1630 {} 69025.00
+   #TRANS 1930 {} -76580.00
+   #TRANS 2440 {} 7555.00
+}
+#VER A 79 20160216 "Inbetalningsjournal nr 72" 20160507
+{
+   #TRANS 1930 {} 50000.00
+   #TRANS 1510 {} -50000.00
+}
+#VER A 80 20160223 Lîn 20160507
+{
+   #TRANS 1930 {} -25000.00
+   #TRANS 2710 {} -8545.00
+   #TRANS 2940 {} -10539.84
+   #TRANS 7220 {} 33545.00
+   #TRANS 7510 {} 10539.84
+}
+#VER A 81 20160225 "Utbetalningsjournal nr 152" 20160507
+{
+   #TRANS 1930 {} -5125.00
+   #TRANS 2440 {} 5125.00
+}
+#VER A 82 20160229 "Utbetalningsjournal nr 153" 20160507
+{
+   #TRANS 1930 {} -604.00
+   #TRANS 2440 {} 604.00
+}
+#VER A 83 20160229 "Fakturajournal nr 36" 20160507
+{
+   #TRANS 1510 {} 30000.00
+   #TRANS 2611 {} -6000.00
+   #TRANS 3041 {} -24000.00
+}
+#VER A 84 20160229 "Leverantîrsfakturajournal nr 46" 20160507
+{
+   #TRANS 2641 {} 3797.00
+   #TRANS 5411 {} 8994.00
+   #TRANS 5810 {} 3814.00
+   #TRANS 6071 {} 1046.00
+   #TRANS 6072 {} 774.00
+   #TRANS 6110 {} 483.00
+   #TRANS 6530 {} 4100.00
+   #TRANS 6992 {} 1020.00
+   #TRANS 7620 {} 750.00
+   #TRANS 2440 {} -24778.00
+}
+#VER A 85 20160229 "AvstÑmning Skattekontot" 20160507
+{
+   #TRANS 1630 {} -82.00
+   #TRANS 8423 {} 82.00
+   #TRANS 1630 {} 3.00
+   #TRANS 8314 {} -3.00
+   #TRANS 1630 {} 15.00
+   #TRANS 8314 {} -15.00
+}
+#VER A 86 20160229 "Periodisering av levfaktura 205" 20160507
+{
+   #TRANS 6540 {} 60.00
+   #TRANS 1790 {} -60.00
+}
+#VER A 87 20160229 "Periodisering av levfaktura 207" 20160507
+{
+   #TRANS 7620 {} 207.62
+   #TRANS 1790 {} -207.62
+}
+#VER A 88 20160229 "Periodisering av verifikation 56" 20160507
+{
+   #TRANS 6570 {} -104.17
+   #TRANS 1790 {} 104.17
+}
+#VER A 89 20160229 "Periodisering av levfaktura 198" 20160507
+{
+   #TRANS 6540 {} 18.67
+   #TRANS 1790 {} -18.67
+}
+#VER A 90 20160301 "Utbetalningsjournal nr 154" 20160507
+{
+   #TRANS 1930 {} -625.00
+   #TRANS 2440 {} 625.00
+}
+#VER A 91 20160302 "Utbetalningsjournal nr 155" 20160507
+{
+   #TRANS 1930 {} -750.00
+   #TRANS 2440 {} 750.00
+}
+#VER A 92 20160307 "Bet via Klarna - underlag saknas" 20160507
+{
+   #TRANS 1930 {} -224.00
+   #TRANS 6992 {} 224.00
+}
+#VER A 93 20160308 "Utbet SKV" 20160507
+{
+   #TRANS 1930 {} 7824.00
+   #TRANS 1630 {} -7824.00
+}
+#VER A 94 20160312 Skattedeklaration 20160507
+{
+   #TRANS 2940 {} 10539.84
+   #TRANS 2710 {} 8545.00
+   #TRANS 3740 {} -0.84
+   #TRANS 1630 {} -19084.00
+}
+#VER A 95 20160314 "Inbetalningsjournal nr 73" 20160507
+{
+   #TRANS 1930 {} 30000.00
+   #TRANS 1510 {} -30000.00
+}
+#VER A 96 20160321 "Utbetalningsjournal nr 156" 20160507
+{
+   #TRANS 1630 {} 19069.00
+   #TRANS 1930 {} -25796.00
+   #TRANS 2440 {} 6727.00
+}
+#VER A 97 20160323 Lîn 20160507
+{
+   #TRANS 1930 {} -25000.00
+   #TRANS 2710 {} -8545.00
+   #TRANS 2940 {} -10539.84
+   #TRANS 7220 {} 33545.00
+   #TRANS 7510 {} 10539.84
+}
+#VER A 98 20160331 "Leverantîrsfakturajournal nr 47" 20160507
+{
+   #TRANS 2641 {} 870.00
+   #TRANS 5410 {} 40.00
+   #TRANS 5810 {} 668.00
+   #TRANS 5830 {} 3174.00
+   #TRANS 6530 {} 1700.00
+   #TRANS 6992 {} 305.00
+   #TRANS 2440 {} -6727.00
+   #TRANS 2449 {} -30.00
+}
+#VER A 99 20160331 "Momsrapport 2016-01-01 - 2016-03-31" 20160507
+{
+   #TRANS 2611 {} 18500.00
+   #TRANS 2641 {} -6091.00
+   #TRANS 2650 {} -12409.00
+}
+#VER A 100 20160331 "AvstÑmning Skattekontot" 20160507
+{
+   #TRANS 1630 {} -59.00
+   #TRANS 8423 {} 59.00
+}
+#VER A 101 20160331 "Periodisering av levfaktura 205" 20160507
+{
+   #TRANS 6540 {} 60.00
+   #TRANS 1790 {} -60.00
+}
+#VER A 102 20160331 "Periodisering av levfaktura 207" 20160507
+{
+   #TRANS 7620 {} 207.62
+   #TRANS 1790 {} -207.62
+}
+#VER A 103 20160331 "Periodisering av verifikation 56" 20160507
+{
+   #TRANS 6570 {} -104.17
+   #TRANS 1790 {} 104.17
+}
+#VER A 104 20160331 "Periodisering av levfaktura 198" 20160507
+{
+   #TRANS 6540 {} 18.67
+   #TRANS 1790 {} -18.67
+}
+#VER A 105 20160411 "Utbetalningsjournal nr 157" 20160915
+{
+   #TRANS 1930 {} -2090.00
+   #TRANS 2440 {} 2090.00
+}
+#VER A 106 20160412 Skattedeklaration 20160915
+{
+   #TRANS 2940 {} 10539.84
+   #TRANS 2710 {} 8545.00
+   #TRANS 3740 {} -0.84
+   #TRANS 1630 {} -19084.00
+}
+#VER A 107 20160413 "Inbetalning Skattekontot" 20160915
+{
+   #TRANS 1630 {} 19084.00
+   #TRANS 1930 {} -19084.00
+}
+#VER A 108 20160422 "Utbetalningsjournal nr 158" 20160915
+{
+   #TRANS 1930 {} -1438.00
+   #TRANS 2440 {} 1438.00
+}
+#VER A 109 20160425 "Utbetalningsjournal nr 159" 20160915
+{
+   #TRANS 1930 {} -99.00
+   #TRANS 2440 {} 99.00
+}
+#VER A 110 20160427 "Inbetalningsjournal nr 74" 20160915
+{
+   #TRANS 1930 {} 72712.00
+   #TRANS 1510 {} -72712.00
+}
+#VER A 111 20160429 "Utbetalningsjournal nr 160" 20160915
+{
+   #TRANS 1930 {} -3913.00
+   #TRANS 2440 {} 3913.00
+}
+#VER A 112 20160430 "Fakturajournal nr 37" 20160915
+{
+   #TRANS 1510 {} 29126.00
+   #TRANS 3740 {} 0.25
+   #TRANS 2611 {} -5825.25
+   #TRANS 3041 {} -20000.00
+   #TRANS 3590 {} -3301.00
+}
+#VER A 113 20160430 "Leverantîrsfakturajournal nr 48" 20160915
+{
+   #TRANS 2641 {} 960.00
+   #TRANS 4010 {} 2530.00
+   #TRANS 5800 {} 1571.00
+   #TRANS 6530 {} 1150.00
+   #TRANS 6540 {} 79.00
+   #TRANS 6992 {} 500.00
+   #TRANS 7620 {} 750.00
+   #TRANS 2440 {} -7540.00
+}
+#VER A 114 20160430 "AvstÑmning Skattekontot" 20160915
+{
+   #TRANS 1630 {} -3.00
+   #TRANS 2940 {} 3.00
+   #TRANS 1630 {} -12.00
+   #TRANS 2710 {} 12.00
+   #TRANS 1630 {} -9.00
+   #TRANS 8423 {} 9.00
+}
+#VER A 115 20160430 "Periodisering av levfaktura 205" 20160915
+{
+   #TRANS 6540 {} 60.00
+   #TRANS 1790 {} -60.00
+}
+#VER A 116 20160430 "Periodisering av levfaktura 207" 20160915
+{
+   #TRANS 7620 {} 207.62
+   #TRANS 1790 {} -207.62
+}
+#VER A 117 20160430 "Periodisering av verifikation 56" 20160915
+{
+   #TRANS 6570 {} -104.17
+   #TRANS 1790 {} 104.17
+}
+#VER A 118 20160430 "Periodisering av levfaktura 198" 20160915
+{
+   #TRANS 6540 {} 18.67
+   #TRANS 1790 {} -18.67
+}
+#VER A 119 20160510 "Utbetalningsjournal nr 161" 20160915
+{
+   #TRANS 1930 {} -4072.00
+   #TRANS 2440 {} 4072.00
+}
+#VER A 120 20160511 "Utbetalningsjournal nr 162" 20160915
+{
+   #TRANS 1930 {} -1125.00
+   #TRANS 2440 {} 1125.00
+}
+#VER A 121 20160512 Skattedeklaration 20160915
+{
+   #TRANS 2650 {} 12409.00
+   #TRANS 1630 {} -12409.00
+}
+#VER A 122 20160517 Lîn 20160915
+{
+   #TRANS 1930 {} -16000.00
+   #TRANS 2710 {} -4571.00
+   #TRANS 2940 {} -6463.41
+   #TRANS 7220 {} 20571.00
+   #TRANS 7510 {} 6463.41
+}
+#VER A 123 20160523 "Inbetalning Skattekontot" 20160915
+{
+   #TRANS 1630 {} 12492.00
+   #TRANS 1930 {} -12492.00
+}
+#VER A 124 20160531 "Leverantîrsfakturajournal nr 49" 20160915
+{
+   #TRANS 2641 {} 634.00
+   #TRANS 4010 {} 1636.00
+   #TRANS 6530 {} 900.00
+   #TRANS 6992 {} 1277.00
+   #TRANS 7620 {} 750.00
+   #TRANS 2440 {} -5197.00
+}
+#VER A 125 20160531 "AvstÑmning Skattekontot" 20160915
+{
+   #TRANS 1630 {} -62.00
+   #TRANS 8423 {} 62.00
+}
+#VER A 126 20160531 "Periodisering av levfaktura 205" 20160915
+{
+   #TRANS 6540 {} 60.00
+   #TRANS 1790 {} -60.00
+}
+#VER A 127 20160531 "Periodisering av levfaktura 207" 20160915
+{
+   #TRANS 7620 {} 207.62
+   #TRANS 1790 {} -207.62
+}
+#VER A 128 20160531 "Periodisering av verifikation 56" 20160915
+{
+   #TRANS 6570 {} -104.17
+   #TRANS 1790 {} 104.17
+}
+#VER A 129 20160531 "Periodisering av levfaktura 198" 20160915
+{
+   #TRANS 6540 {} 18.67
+   #TRANS 1790 {} -18.67
+}
+#VER A 130 20160609 "Utbetalningsjournal nr 163" 20160915
+{
+   #TRANS 1930 {} -6216.00
+   #TRANS 2440 {} 6216.00
+}
+#VER A 131 20160612 Skattedeklaration 20160915
+{
+   #TRANS 2940 {} 6463.41
+   #TRANS 2710 {} 4571.00
+   #TRANS 3740 {} -0.41
+   #TRANS 1630 {} -11034.00
+}
+#VER A 132 20160620 "Inbetalning Skattekontot" 20160915
+{
+   #TRANS 1630 {} 11200.00
+   #TRANS 1930 {} -11200.00
+}
+#VER A 133 20160621 "Utbetalningsjournal nr 164" 20160915
+{
+   #TRANS 1930 {} -125.00
+   #TRANS 2440 {} 125.00
+}
+#VER A 134 20160623 Lîn 20160915
+{
+   #TRANS 1930 {} -12500.00
+   #TRANS 2710 {} -3091.00
+   #TRANS 2940 {} -4898.69
+   #TRANS 7220 {} 15591.00
+   #TRANS 7510 {} 4898.69
+}
+#VER A 135 20160630 "Leverantîrsfakturajournal nr 50" 20160915
+{
+   #TRANS 2641 {} 25.00
+   #TRANS 6530 {} 100.00
+   #TRANS 6981 {} 6216.00
+   #TRANS 2440 {} -6341.00
+}
+#VER A 136 20160630 "Momsrapport 2016-04-01 - 2016-06-30" 20160915
+{
+   #TRANS 2611 {} 5825.25
+   #TRANS 2641 {} -1619.00
+   #TRANS 2650 {} -4206.00
+   #TRANS 3740 {} -0.25
+}
+#VER A 137 20160630 "AvstÑmning Skattekontot" 20160915
+{
+   #TRANS 1630 {} -34.00
+   #TRANS 8423 {} 34.00
+}
+#VER A 138 20160630 "Periodisering av levfaktura 205" 20160915
+{
+   #TRANS 6540 {} 60.00
+   #TRANS 1790 {} -60.00
+}
+#VER A 139 20160630 "Periodisering av levfaktura 207" 20160915
+{
+   #TRANS 7620 {} 207.62
+   #TRANS 1790 {} -207.62
+}
+#VER A 140 20160630 "Periodisering av verifikation 56" 20160915
+{
+   #TRANS 6570 {} -104.17
+   #TRANS 1790 {} 104.17
+}
+#VER A 141 20160630 "Periodisering av levfaktura 198" 20160915
+{
+   #TRANS 6540 {} 18.67
+   #TRANS 1790 {} -18.67
+}
+#VER A 142 20160704 "Inbetalningsjournal nr 75" 20161109
+{
+   #TRANS 1930 {} 29126.00
+   #TRANS 1510 {} -29126.00
+}
+#VER A 143 20160708 "Utbetalningsjournal nr 165" 20161109
+{
+   #TRANS 1930 {} -8600.00
+   #TRANS 2440 {} 8600.00
+}
+#VER A 144 20160712 Skattedeklaration 20161109
+{
+   #TRANS 2940 {} 4898.69
+   #TRANS 2710 {} 3091.00
+   #TRANS 3740 {} -0.69
+   #TRANS 1630 {} -7989.00
+}
+#VER A 145 20160712 "Inbetalning Skattekontot" 20161109
+{
+   #TRANS 1630 {} 7989.00
+   #TRANS 1930 {} -7989.00
+}
+#VER A 146 20160714 "Utbetalningsjournal nr 166" 20161109
+{
+   #TRANS 1930 {} -250.00
+   #TRANS 2440 {} 250.00
+}
+#VER A 147 20160719 "Utbetalningsjournal nr 167" 20161109
+{
+   #TRANS 1930 {} -280.00
+   #TRANS 2440 {} 280.00
+}
+#VER A 148 20160725 Lîn 20161109
+{
+   #TRANS 1930 {} -12500.00
+   #TRANS 2710 {} -3091.00
+   #TRANS 2940 {} -4898.69
+   #TRANS 7220 {} 15591.00
+   #TRANS 7510 {} 4898.69
+}
+#VER A 149 20160731 "Fakturajournal nr 38" 20161109
+{
+   #TRANS 1510 {} 43568.00
+   #TRANS 2611 {} -8713.50
+   #TRANS 3041 {} -30000.00
+   #TRANS 3590 {} -4854.00
+   #TRANS 3740 {} -0.50
+}
+#VER A 150 20160731 "Leverantîrsfakturajournal nr 51" 20161109
+{
+   #TRANS 2641 {} 1034.00
+   #TRANS 4020 {} 1612.00
+   #TRANS 5810 {} 1028.00
+   #TRANS 5831 {} 3826.00
+   #TRANS 6071 {} 362.00
+   #TRANS 6072 {} 1068.00
+   #TRANS 6530 {} 200.00
+   #TRANS 2440 {} -9130.00
+}
+#VER A 151 20160731 "AvstÑmning Skattekontot" 20161109
+{
+   #TRANS 1630 {} 1.00
+   #TRANS 1630 {} -1.00
+}
+#VER A 152 20160731 "Periodisering av levfaktura 205" 20161109
+{
+   #TRANS 6540 {} 60.00
+   #TRANS 1790 {} -60.00
+}
+#VER A 153 20160731 "Periodisering av levfaktura 207" 20161109
+{
+   #TRANS 7620 {} 207.57
+   #TRANS 1790 {} -207.57
+}
+#VER A 154 20160731 "Periodisering av verifikation 56" 20161109
+{
+   #TRANS 6570 {} -104.17
+   #TRANS 1790 {} 104.17
+}
+#VER A 155 20160731 "Periodisering av levfaktura 198" 20161109
+{
+   #TRANS 6540 {} 18.67
+   #TRANS 1790 {} -18.67
+}
+#VER A 156 20160817 Skattedeklaration 20161109
+{
+   #TRANS 2940 {} 4898.69
+   #TRANS 2710 {} 3091.00
+   #TRANS 3740 {} -0.69
+   #TRANS 2650 {} 4206.00
+   #TRANS 1630 {} -12195.00
+}
+#VER A 157 20160818 "Inbetalning Skattekontot" 20161109
+{
+   #TRANS 1630 {} 12195.00
+   #TRANS 1930 {} -12195.00
+}
+#VER A 158 20160825 "Utbetalningsjournal nr 168" 20161109
+{
+   #TRANS 1930 {} -12313.00
+   #TRANS 2440 {} 12313.00
+}
+#VER A 159 20160825 Lîn 20161109
+{
+   #TRANS 1930 {} -15000.00
+   #TRANS 2710 {} -4157.00
+   #TRANS 2940 {} -6019.13
+   #TRANS 7220 {} 19157.00
+   #TRANS 7510 {} 6019.13
+}
+#VER A 160 20160830 "Utbetalningsjournal nr 169" 20161109
+{
+   #TRANS 1930 {} -261.25
+   #TRANS 2440 {} 261.25
+}
+#VER A 161 20160831 "Leverantîrsfakturajournal nr 52" 20161109
+{
+   #TRANS 1790 {} 209.00
+   #TRANS 2641 {} 2145.75
+   #TRANS 4020 {} 3703.00
+   #TRANS 5411 {} 4511.00
+   #TRANS 5412 {} 120.00
+   #TRANS 5840 {} 562.50
+   #TRANS 6071 {} 163.00
+   #TRANS 6530 {} 1400.00
+   #TRANS 6540 {} 209.00
+   #TRANS 6570 {} 80.00
+   #TRANS 6992 {} 950.00
+   #TRANS 7620 {} 480.00
+   #TRANS 2440 {} -14324.25
+   #TRANS 6540 {} -209.00
+}
+#VER A 162 20160831 "AvstÑmning Skattekontot" 20161109
+{
+   #TRANS 1630 {} -6.00
+   #TRANS 8423 {} 6.00
+}
+#VER A 163 20160831 "Periodisering av levfaktura 205" 20161109
+{
+   #TRANS 6540 {} 60.00
+   #TRANS 1790 {} -60.00
+}
+#VER A 164 20160831 "Periodisering av verifikation 56" 20161109
+{
+   #TRANS 6570 {} -104.17
+   #TRANS 1790 {} 104.17
+}
+#VER A 165 20160831 "Periodisering av levfaktura 198" 20161109
+{
+   #TRANS 6540 {} 18.67
+   #TRANS 1790 {} -18.67
+}
