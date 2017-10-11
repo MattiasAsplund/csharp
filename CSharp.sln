@@ -105,7 +105,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RegexProjects", "RegexProje
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RegexTests", "RegexTests\RegexTests.csproj", "{9B7F11E3-0D86-4573-9AD2-1DCEAA25DB9A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeLib", "EmployeeLib\EmployeeLib.csproj", "{1C3131BB-9EDF-4059-88DA-CC53800077A6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeLib", "EmployeeLib\EmployeeLib.csproj", "{1C3131BB-9EDF-4059-88DA-CC53800077A6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeTestsLib", "EmployeeTestsLib\EmployeeTestsLib.csproj", "{C102BCED-CECC-4A7B-BB61-AFF91A2D2F40}"
 EndProject
@@ -113,7 +113,18 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "RecursiveAcccounts", "Recur
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountTestsLib", "AccountTestsLib\AccountTestsLib.csproj", "{4B4B323A-2DB9-422B-934A-BF814F7865C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccountLib", "AccountLib\AccountLib.csproj", "{B0EA8B8D-FF17-41EB-A97F-4FE42FB219E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccountLib", "AccountLib\AccountLib.csproj", "{B0EA8B8D-FF17-41EB-A97F-4FE42FB219E5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Utbildning", "Utbildning", "{9A33C66B-B8FD-4DA0-B736-A8833C31CF0C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UtbildningLib", "UtbildningLib\UtbildningLib.csproj", "{097F45AD-29B8-40EE-884D-D53FC97C06A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtbildningTestsLib", "UtbildningTestsLib\UtbildningTestsLib.csproj", "{5EC1434E-44A6-4565-A7D7-9F2EBCE7671A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SIEImport", "SIEImport", "{39DCA00D-A6FC-4388-9D82-FAA42E36C748}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Mattias Asplund AB\MATTIAS0_SIE4 2015-09-01 - 2016-08-31.SE = ..\..\..\Mattias Asplund AB\MATTIAS0_SIE4 2015-09-01 - 2016-08-31.SE
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -273,6 +284,14 @@ Global
 		{B0EA8B8D-FF17-41EB-A97F-4FE42FB219E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B0EA8B8D-FF17-41EB-A97F-4FE42FB219E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0EA8B8D-FF17-41EB-A97F-4FE42FB219E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{097F45AD-29B8-40EE-884D-D53FC97C06A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{097F45AD-29B8-40EE-884D-D53FC97C06A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{097F45AD-29B8-40EE-884D-D53FC97C06A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{097F45AD-29B8-40EE-884D-D53FC97C06A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EC1434E-44A6-4565-A7D7-9F2EBCE7671A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EC1434E-44A6-4565-A7D7-9F2EBCE7671A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EC1434E-44A6-4565-A7D7-9F2EBCE7671A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EC1434E-44A6-4565-A7D7-9F2EBCE7671A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -311,6 +330,8 @@ Global
 		{C102BCED-CECC-4A7B-BB61-AFF91A2D2F40} = {89275E90-3C1A-4DE7-8BF9-7FA1D5A6556F}
 		{4B4B323A-2DB9-422B-934A-BF814F7865C9} = {0C967E15-28D8-4C62-AE1C-B40B114695EA}
 		{B0EA8B8D-FF17-41EB-A97F-4FE42FB219E5} = {0C967E15-28D8-4C62-AE1C-B40B114695EA}
+		{097F45AD-29B8-40EE-884D-D53FC97C06A7} = {9A33C66B-B8FD-4DA0-B736-A8833C31CF0C}
+		{5EC1434E-44A6-4565-A7D7-9F2EBCE7671A} = {9A33C66B-B8FD-4DA0-B736-A8833C31CF0C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2F24F730-EE1B-4D8E-86DA-E1EC27CB103B}

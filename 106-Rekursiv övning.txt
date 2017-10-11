@@ -4,7 +4,6 @@ En kurs är ett event som innehåller kursdagar.
 
 Varje kursdag är ett event som pågår i sex timmar.
 
-Gör ett unit test för utbildningen "SPO16", kursen "C#" och ett antal kursdagar.
+Gör ett unit test för utbildningen "SPO16", där kursen "C#" ingår med ett antal kursdagar.
 
 Verifiera att SPO16.Hours returnerar rätt antal timmar för alla kurser och kursdagar.
-
