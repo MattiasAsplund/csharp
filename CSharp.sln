@@ -21,6 +21,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 		104-Enklare problemlösning.txt = 104-Enklare problemlösning.txt
 		105-Regular expressions.txt = 105-Regular expressions.txt
 		106-Rekursiv övning.txt = 106-Rekursiv övning.txt
+		107-SIE import.txt = 107-SIE import.txt
 	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StoretellerTestsLib", "StoretellerTestsLib\StoretellerTestsLib.csproj", "{2D30CBFA-8045-4EA3-8151-2CF2AF669D0F}"
@@ -122,11 +123,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtbildningTestsLib", "UtbildningTestsLib\UtbildningTestsLib.csproj", "{5EC1434E-44A6-4565-A7D7-9F2EBCE7671A}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SIEImport", "SIEImport", "{39DCA00D-A6FC-4388-9D82-FAA42E36C748}"
-	ProjectSection(SolutionItems) = preProject
-		..\..\..\Mattias Asplund AB\MATTIAS0_SIE4 2015-09-01 - 2016-08-31.SE.txt = ..\..\..\Mattias Asplund AB\MATTIAS0_SIE4 2015-09-01 - 2016-08-31.SE.txt
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIEImportTests", "SIEImportTests\SIEImportTests.csproj", "{47092D98-85B9-476F-AEA4-D240F66E9E74}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIEAccountLib", "SIEAccountLib\SIEAccountLib.csproj", "{824E21CE-DF48-49D8-A741-3941EBA77384}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -298,6 +298,10 @@ Global
 		{47092D98-85B9-476F-AEA4-D240F66E9E74}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47092D98-85B9-476F-AEA4-D240F66E9E74}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47092D98-85B9-476F-AEA4-D240F66E9E74}.Release|Any CPU.Build.0 = Release|Any CPU
+		{824E21CE-DF48-49D8-A741-3941EBA77384}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{824E21CE-DF48-49D8-A741-3941EBA77384}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{824E21CE-DF48-49D8-A741-3941EBA77384}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{824E21CE-DF48-49D8-A741-3941EBA77384}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -339,6 +343,7 @@ Global
 		{097F45AD-29B8-40EE-884D-D53FC97C06A7} = {9A33C66B-B8FD-4DA0-B736-A8833C31CF0C}
 		{5EC1434E-44A6-4565-A7D7-9F2EBCE7671A} = {9A33C66B-B8FD-4DA0-B736-A8833C31CF0C}
 		{47092D98-85B9-476F-AEA4-D240F66E9E74} = {39DCA00D-A6FC-4388-9D82-FAA42E36C748}
+		{824E21CE-DF48-49D8-A741-3941EBA77384} = {39DCA00D-A6FC-4388-9D82-FAA42E36C748}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2F24F730-EE1B-4D8E-86DA-E1EC27CB103B}

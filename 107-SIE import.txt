@@ -1,0 +1,18 @@
+Uppgift:
+
+Bearbeta filen MATTIAS0_SIE4 2015-09-01 - 2016-08-31.SE.txt så att följande output genereras i ett unit test projekt. (Exempeldata visas)
+
+1010 5730.50
+1040 -2105.45
+
+osv
+
+///
+
+Gör en klass som räknar antalet rader i en fil som inleds med texten "#VER". Verifiera med ett test att antalet #VER-rader stämmer överens med det faktiska antalet i ovanstående SIE-fil.
+
+RegexMatchCounter
+  CountMatchingLines(string content, string regexPattern)
+RegexMatchCounterTests
+  var sut = new RegexMatchCounter();
+  var lineCount = sut.CountMatchingLines(content, "#VER")

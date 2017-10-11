@@ -48,14 +48,23 @@
     <Reference Include="System.Core" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="UnitTest1.cs" />
+    <Compile Include="SIEImportTester.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RegexMatchCounterTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="MATTIAS0_SIE4 2015-09-01 - 2016-08-31.SE.txt" />
+    <Content Include="MATTIAS0_SIE4 2015-09-01 - 2016-08-31.SE.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SIEAccountLib\SIEAccountLib.csproj">
+      <Project>{824e21ce-df48-49d8-a741-3941eba77384}</Project>
+      <Name>SIEAccountLib</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets" Condition="Exists('$(VSToolsPath)\TeamTest\Microsoft.TestTools.targets')" />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
