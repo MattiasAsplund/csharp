@@ -1,0 +1,12 @@
+Use Case: Ticket gets resolved
+Level: Sea
+
+Scenario:
+
+1. User enters a ticket with e-mail, name, date and free text description
+2. Sales rep makes an offer
+3. Customer accepts offer
+4. Ticket is resolved
+5. Invoice customer
+
+///
