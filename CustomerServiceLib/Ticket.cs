@@ -4,7 +4,7 @@ using System.Text;
 
 namespace CustomerServiceLib
 {
-    class Ticket
+    public class Ticket
     {
         public Guid Id { get; set; }
         public string Email { get; set; }

@@ -7,7 +7,7 @@ namespace CustomerServiceLib
     public class CustomerService
     {
         private List<Ticket> tickets = new List<Ticket>();
-
+        private List<Offer> offers = new List<Offer>();
         public Guid EnterTicket(string email, string name, DateTime dateTime, string description)
         {
             var id = Guid.NewGuid();
@@ -25,25 +25,38 @@ namespace CustomerServiceLib
             return id;
         }
 
-        public decimal OfferedPrice(Guid ticketId)
+        public Offer Offer(Guid ticketId)
+        {
+            var offer = offers.FirstOrDefault(x => x.Ticket.Id == ticketId);
+            if (offer != null)
+                return offer;
+            throw new InvalidOperationException("Can't view offer!");
+        }
+
+        public Invoice Invoice(string email)
+        {
+            return new Invoice { Email = email, Total = 
+                offers
+                .Where(o => o.Ticket.Email == email && o.Accepted)
+                .Sum(o => o.Price) };
+        }
+
+        public void ResolveTicket(Guid ticketId)
         {
             var ticket = tickets.SingleOrDefault(t => t.Id == ticketId);
-            if (ticket.Offered)
-                return ticket.OfferedPrice;
-            throw new InvalidOperationException("Can't view offer!");
+            ticket.Resolved = true;
         }
 
         public bool OfferExists(Guid ticketId)
         {
-            var ticket = tickets.SingleOrDefault(t => t.Id == ticketId);
-            return ticket.Offered;
+            return offers.Any(offer => offer.Ticket.Id == ticketId);
         }
 
-        public void MakeOffer(Guid ticketId, decimal amount)
+        public void MakeOffer(Guid ticketId, string name, decimal amount)
         {
             var ticket = tickets.SingleOrDefault(t => t.Id == ticketId);
-            ticket.Offered = true;
-            ticket.OfferedPrice = amount;
+            var offer = new Offer { Ticket = ticket, Salesperson = name, Price = amount };
+            offers.Add(offer);
         }
     }
 }
