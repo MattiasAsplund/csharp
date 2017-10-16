@@ -1,0 +1,2 @@
+1. Komplettera Dice med att hantera två spelare. Simulera att dessa spelare under tio
+   minuter kastar växelvis och att vinnarens namn därefter visas.
