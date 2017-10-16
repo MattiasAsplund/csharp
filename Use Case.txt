@@ -1,0 +1,8 @@
+Use Case: Manage classes in school
+Level: Sea
+
+Scenario:
+
+A school manager adds a class containing the class name and the number of students in it.
+
+The total number of classes and students are displayed.
