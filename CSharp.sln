@@ -149,6 +149,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverJournalTestsLib", "Dr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverJournalLib", "DriverJournalLib\DriverJournalLib.csproj", "{E5A52663-AF2C-4D85-BAE9-CAD2C976FF63}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriversJournalApp", "DriversJournalApp\DriversJournalApp.csproj", "{ACBDB2C8-52CA-4D9F-9FA7-B32A1296D41E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -347,6 +349,10 @@ Global
 		{E5A52663-AF2C-4D85-BAE9-CAD2C976FF63}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E5A52663-AF2C-4D85-BAE9-CAD2C976FF63}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E5A52663-AF2C-4D85-BAE9-CAD2C976FF63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACBDB2C8-52CA-4D9F-9FA7-B32A1296D41E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACBDB2C8-52CA-4D9F-9FA7-B32A1296D41E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACBDB2C8-52CA-4D9F-9FA7-B32A1296D41E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACBDB2C8-52CA-4D9F-9FA7-B32A1296D41E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -395,6 +401,7 @@ Global
 		{162621F9-9351-4EC2-A207-23587487C7F3} = {7D915BDA-3B4E-4E56-9A78-EB4C924D90A3}
 		{A582E79A-52C0-48F2-BFB9-003D352D68E8} = {E830D953-17F4-4764-B6EF-77DE5083458E}
 		{E5A52663-AF2C-4D85-BAE9-CAD2C976FF63} = {E830D953-17F4-4764-B6EF-77DE5083458E}
+		{ACBDB2C8-52CA-4D9F-9FA7-B32A1296D41E} = {E830D953-17F4-4764-B6EF-77DE5083458E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2F24F730-EE1B-4D8E-86DA-E1EC27CB103B}
