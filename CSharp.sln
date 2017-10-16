@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26730.16
+VisualStudioVersion = 15.0.27004.2002
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplierTestsLib", "MultiplierTestsLib\MultiplierTestsLib.csproj", "{D9D6D3E4-C947-4279-B287-BB7907775DF0}"
 EndProject
@@ -126,7 +126,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SIEImport", "SIEImport", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIEImportTests", "SIEImportTests\SIEImportTests.csproj", "{47092D98-85B9-476F-AEA4-D240F66E9E74}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SIEAccountLib", "SIEAccountLib\SIEAccountLib.csproj", "{824E21CE-DF48-49D8-A741-3941EBA77384}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SIEAccountLib", "SIEAccountLib\SIEAccountLib.csproj", "{824E21CE-DF48-49D8-A741-3941EBA77384}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FileHashes", "FileHashes", "{64C57692-A978-441B-AC8C-4F13A29CEEC8}"
 EndProject
@@ -136,9 +136,18 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Calculator", "Calculator", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorTestsLib", "CalculatorTestsLib\CalculatorTestsLib.csproj", "{7F356791-4532-4AC4-B9A1-0B97F9192279}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorLib", "CalculatorLib\CalculatorLib.csproj", "{C7FFBF44-D5F3-4320-B56B-4BFC29D35848}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CalculatorLib", "CalculatorLib\CalculatorLib.csproj", "{C7FFBF44-D5F3-4320-B56B-4BFC29D35848}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorWinApp", "CalculatorWinApp\CalculatorWinApp.csproj", "{162621F9-9351-4EC2-A207-23587487C7F3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Driving Journal", "Driving Journal", "{E830D953-17F4-4764-B6EF-77DE5083458E}"
+	ProjectSection(SolutionItems) = preProject
+		Drivers Journal Use Cases.txt = Drivers Journal Use Cases.txt
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverJournalTestsLib", "DriverJournalTestsLib\DriverJournalTestsLib.csproj", "{A582E79A-52C0-48F2-BFB9-003D352D68E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverJournalLib", "DriverJournalLib\DriverJournalLib.csproj", "{E5A52663-AF2C-4D85-BAE9-CAD2C976FF63}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -330,6 +339,14 @@ Global
 		{162621F9-9351-4EC2-A207-23587487C7F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{162621F9-9351-4EC2-A207-23587487C7F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{162621F9-9351-4EC2-A207-23587487C7F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A582E79A-52C0-48F2-BFB9-003D352D68E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A582E79A-52C0-48F2-BFB9-003D352D68E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A582E79A-52C0-48F2-BFB9-003D352D68E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A582E79A-52C0-48F2-BFB9-003D352D68E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5A52663-AF2C-4D85-BAE9-CAD2C976FF63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5A52663-AF2C-4D85-BAE9-CAD2C976FF63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5A52663-AF2C-4D85-BAE9-CAD2C976FF63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5A52663-AF2C-4D85-BAE9-CAD2C976FF63}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -376,6 +393,8 @@ Global
 		{7F356791-4532-4AC4-B9A1-0B97F9192279} = {7D915BDA-3B4E-4E56-9A78-EB4C924D90A3}
 		{C7FFBF44-D5F3-4320-B56B-4BFC29D35848} = {7D915BDA-3B4E-4E56-9A78-EB4C924D90A3}
 		{162621F9-9351-4EC2-A207-23587487C7F3} = {7D915BDA-3B4E-4E56-9A78-EB4C924D90A3}
+		{A582E79A-52C0-48F2-BFB9-003D352D68E8} = {E830D953-17F4-4764-B6EF-77DE5083458E}
+		{E5A52663-AF2C-4D85-BAE9-CAD2C976FF63} = {E830D953-17F4-4764-B6EF-77DE5083458E}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2F24F730-EE1B-4D8E-86DA-E1EC27CB103B}
