@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27004.2002
+VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplierTestsLib", "MultiplierTestsLib\MultiplierTestsLib.csproj", "{D9D6D3E4-C947-4279-B287-BB7907775DF0}"
 EndProject
@@ -147,7 +147,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Driving Journal", "Driving 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverJournalTestsLib", "DriverJournalTestsLib\DriverJournalTestsLib.csproj", "{A582E79A-52C0-48F2-BFB9-003D352D68E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverJournalLib", "DriverJournalLib\DriverJournalLib.csproj", "{E5A52663-AF2C-4D85-BAE9-CAD2C976FF63}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DriverJournalLib", "DriverJournalLib\DriverJournalLib.csproj", "{E5A52663-AF2C-4D85-BAE9-CAD2C976FF63}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriversJournalApp", "DriversJournalApp\DriversJournalApp.csproj", "{ACBDB2C8-52CA-4D9F-9FA7-B32A1296D41E}"
 EndProject
@@ -158,7 +158,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CustomerService", "Customer
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerServiceTestsLib", "CustomerServiceTestsLib\CustomerServiceTestsLib.csproj", "{3E237C8A-BE3B-46BC-B12B-B38A9345B203}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerServiceLib", "CustomerServiceLib\CustomerServiceLib.csproj", "{01B47665-A21B-4E29-9E74-7EAF7B110324}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CustomerServiceLib", "CustomerServiceLib\CustomerServiceLib.csproj", "{01B47665-A21B-4E29-9E74-7EAF7B110324}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "School", "School", "{DE97610F-8AD0-4C9C-B673-E19B5E1116DB}"
 	ProjectSection(SolutionItems) = preProject
@@ -167,17 +167,22 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "School", "School", "{DE9761
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolTestsLib", "SchoolTestsLib\SchoolTestsLib.csproj", "{ED9A2F5D-61D1-4388-A65C-5BAB41DBE4AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SchoolLib", "SchoolLib\SchoolLib.csproj", "{67D55887-5BA5-41D2-9C15-041DC29E63FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SchoolLib", "SchoolLib\SchoolLib.csproj", "{67D55887-5BA5-41D2-9C15-041DC29E63FF}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SimulateTime", "SimulateTime", "{6F246DDF-3260-4299-B335-B9B523F32061}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimulateTimeTestsLib", "SimulateTimeTestsLib\SimulateTimeTestsLib.csproj", "{4A4026E1-8559-418B-BDBE-47CC63742D28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimulateTimeLib", "SimulateTimeLib\SimulateTimeLib.csproj", "{311B6E41-C361-4816-A679-0B5FCFD70487}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimulateTimeLib", "SimulateTimeLib\SimulateTimeLib.csproj", "{311B6E41-C361-4816-A679-0B5FCFD70487}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DiceExtended", "DiceExtended", "{D565E81C-3FFE-4288-BCC3-349A37B3E33E}"
 	ProjectSection(SolutionItems) = preProject
 		övning.txt = övning.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SumSIEPerAccount", "SumSIEPerAccount", "{284831C7-3713-42D7-A7DC-5A3BEFB3C06C}"
+	ProjectSection(SolutionItems) = preProject
+		SIE-fråga.txt = SIE-fråga.txt
 	EndProjectSection
 EndProject
 Global

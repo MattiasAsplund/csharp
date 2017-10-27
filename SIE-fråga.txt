@@ -1,0 +1,7 @@
+ File.ReadAllLines(@"C:\ECUtbildning\Mattias_SIE4.txt").
+     Where(line => line.Contains("#TRANS")).
+     GroupBy(line => Regex.Match(line, @"#TRANS (\d{4}) {} (-?\d*.\d*)").Groups[1].Value).
+     Select(e => new { Account = e.Key, Total = 
+       e.Sum(x => decimal.Parse(Regex.Match(x, @"#TRANS (\d{4}) {} (-?\d*.\d*)").Groups[2].Value, 
+       System.Globalization.CultureInfo.InvariantCulture))}).
+	 OrderBy(e => e.Account)
