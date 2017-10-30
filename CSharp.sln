@@ -185,6 +185,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SumSIEPerAccount", "SumSIEP
 		SIE-fråga.txt = SIE-fråga.txt
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ProductFromTwoFiles", "ProductFromTwoFiles", "{BD2FC260-A54F-4CEB-B41D-004AFD4FC513}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
