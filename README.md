@@ -27,6 +27,7 @@ Alice, Bob
 
 Kursen MVC pågår i 44 dagar med följande deltagare:
 Carol
+```
 
 1. Unit Testing av en klass som utför transformationen
 
