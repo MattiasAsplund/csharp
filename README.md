@@ -1,25 +1,32 @@
 # Övning
 
-Tänk dig på två filer med följande innehåll:
+File Parties.txt innehåller:
 
 ```txt
-12.50
-17.50
+Alice;C#;SQL
+Bob;SQL
+Carol;MVC;C#
 ```
+
+Filen Courses.txt innehåller:
 
 ```txt
-2
-10
+C#;2018-01-01;2018-02-05
+SQL;2018-02-10;2018-03-25
+MVC;2018-04-01;2018-05-15
 ```
 
-Bygg en lösning där man kan välja var och en av dessa två filer och generera en ny fil med följande innehåll:
+Bygg en lösning där man kan välja var och en av dessa två filer och transformera innehållet i dessa till en fil med följande format:
 
 ```txt
-12.50x2=25.00
-12.50x10=125.00
-17.50x2=35.00
-17.50x10=175.00
-```
+Kursen C# pågår i 35 dagar med följande deltagare:
+Alice, Carol
+
+Kursen SQL pågår i 43 dagar med följande deltagare:
+Alice, Bob
+
+Kursen MVC pågår i 44 dagar med följande deltagare:
+Carol
 
 1. Unit Testing av en klass som utför transformationen
 

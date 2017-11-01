@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27004.2005
+VisualStudioVersion = 15.0.27004.2006
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplierTestsLib", "MultiplierTestsLib\MultiplierTestsLib.csproj", "{D9D6D3E4-C947-4279-B287-BB7907775DF0}"
 EndProject
@@ -186,6 +186,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SumSIEPerAccount", "SumSIEP
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ProductFromTwoFiles", "ProductFromTwoFiles", "{BD2FC260-A54F-4CEB-B41D-004AFD4FC513}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "UnitTestExercise", "UnitTestExercise", "{45182448-ADB9-4E32-A8CE-46D88BD1088D}"
 	ProjectSection(SolutionItems) = preProject
 		README.md = README.md
 	EndProjectSection
